@@ -31,7 +31,8 @@ def baseline_hash(data): return digest(canonical(data))
 def fetch(url,binary=False):
     u=urlsplit(url)
     if u.scheme!='https' or u.username or u.password: raise ValueError('HTTPS source required')
-    cap=30_000_000 if binary else 10_000_000
+    # The reviewed Regalia 16 EPA master label is about 40 MB.
+    cap=50_000_000 if binary else 10_000_000
     for attempt in range(2):
         try:
             req=Request(url,headers={'User-Agent':'Canola-Guide-Source-Check/1.0','Cache-Control':'no-cache'})

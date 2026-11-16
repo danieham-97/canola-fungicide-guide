@@ -1,5 +1,7 @@
 # Canola Fungicide Guide
 
+[Open and share the live guide](https://danieham-97.github.io/canola-fungicide-guide/).
+
 An independent, CPN-style guide to U.S. federal canola/rapeseed foliar white-mold label information. It is not an official Crop Protection Network publication. Efficacy ratings remain blank.
 
 The reviewed baseline contains 122 profiles, 196 federal records, 10 research evidence entries, and a directory covering 50 states, DC and five territories. Its substantive label audit is dated November 13, 2026. Later automated source-check dates are separate from label-review dates.
