@@ -1,0 +1,70 @@
+name: Check sources and publish guide
+
+on:
+  push:
+    branches: [main]
+    paths-ignore: ['data/source-status.json', '**.md']
+  workflow_dispatch:
+  schedule:
+    - cron: '23 5,17 * * *'
+
+# A single run owns the current source snapshot and deployment.
+concurrency:
+  group: canola-pages
+  cancel-in-progress: false
+
+permissions: {}
+
+jobs:
+  build:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: main
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '24'
+      - name: Test source checks
+        run: python -m unittest discover -s tests -p 'test_*.py' -v
+      - name: Check tracked public sources
+        run: python scripts/refresh_sources.py
+      - name: Build the guide
+        run: python scripts/build.py
+      - name: Test the browser logic
+        run: node tests/test_app.cjs
+      - name: Retain source-check history
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TARGET_BRANCH: main
+        run: python scripts/persist_status.py
+      - name: Upload public site only
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+      actions: read
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
