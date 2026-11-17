@@ -1,1721 +1,1721 @@
 {
   "schema": 1,
   "reviewedHash": "400edb4e6323989c0c80b081544d08781316fb5392e12a108583d1c64997ef63",
-  "startedAt": "2026-11-17T00:51:08.840350Z",
-  "generatedAt": "2026-11-17T00:51:44.618426Z",
+  "startedAt": "2026-11-17T14:34:59.491872Z",
+  "generatedAt": "2026-11-17T14:35:33.633542Z",
   "requestTimeoutSeconds": 20,
   "epaChecks": {
     "100-1093": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.197242Z",
+      "date": "2026-11-17T14:34:59.914587Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1098": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.262052Z",
+      "date": "2026-11-17T14:34:59.794182Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1262": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.265456Z",
+      "date": "2026-11-17T14:34:59.868481Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1312": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.141994Z",
+      "date": "2026-11-17T14:34:59.753106Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1471": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.557286Z",
+      "date": "2026-11-17T14:35:00.139256Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1475": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.465229Z",
+      "date": "2026-11-17T14:34:59.999471Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1476": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.602059Z",
+      "date": "2026-11-17T14:35:00.234770Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1480": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.638439Z",
+      "date": "2026-11-17T14:35:00.299088Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1601": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.883790Z",
+      "date": "2026-11-17T14:35:00.265139Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1602": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.832710Z",
+      "date": "2026-11-17T14:35:00.485792Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1605": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.926105Z",
+      "date": "2026-11-17T14:35:00.531655Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1613": {
       "status": "matched",
-      "date": "2026-11-17T00:51:09.884433Z",
+      "date": "2026-11-17T14:35:00.484274Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1716": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.068387Z",
+      "date": "2026-11-17T14:35:00.534182Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-1770": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.304794Z",
+      "date": "2026-11-17T14:35:00.833969Z",
       "result": "Federal record matches reviewed baseline"
     },
     "100-617": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.267082Z",
+      "date": "2026-11-17T14:35:00.853615Z",
       "result": "Federal record matches reviewed baseline"
     },
     "101458-5": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.512225Z",
+      "date": "2026-11-17T14:35:01.016111Z",
       "result": "Federal record matches reviewed baseline"
     },
     "10163-324": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.321302Z",
+      "date": "2026-11-17T14:35:00.761876Z",
       "result": "Federal record matches reviewed baseline"
     },
     "10163-332": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.512881Z",
+      "date": "2026-11-17T14:35:00.981100Z",
       "result": "Federal record matches reviewed baseline"
     },
     "10163-397": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.538917Z",
+      "date": "2026-11-17T14:35:01.073282Z",
       "result": "Federal record matches reviewed baseline"
     },
     "10163-405": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.548585Z",
+      "date": "2026-11-17T14:35:01.060746Z",
       "result": "Federal record matches reviewed baseline"
     },
     "101986-4": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.777509Z",
+      "date": "2026-11-17T14:35:01.269511Z",
       "result": "Federal record matches reviewed baseline"
     },
     "103591-138": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.952729Z",
+      "date": "2026-11-17T14:35:01.350460Z",
       "result": "Federal record matches reviewed baseline"
     },
     "103591-5": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.095533Z",
+      "date": "2026-11-17T14:35:01.662835Z",
       "result": "Federal record matches reviewed baseline"
     },
     "104810-3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:10.948120Z",
+      "date": "2026-11-17T14:35:01.493484Z",
       "result": "Federal record matches reviewed baseline"
     },
     "105211-92": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.215044Z",
+      "date": "2026-11-17T14:35:01.649726Z",
       "result": "Federal record matches reviewed baseline"
     },
     "1381-244": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.198991Z",
+      "date": "2026-11-17T14:35:01.594718Z",
       "result": "Federal record matches reviewed baseline"
     },
     "1381-267": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.305741Z",
+      "date": "2026-11-17T14:35:01.974034Z",
       "result": "Federal record matches reviewed baseline"
     },
     "19713-715": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.623078Z",
+      "date": "2026-11-17T14:35:02.175632Z",
       "result": "Federal record matches reviewed baseline"
     },
     "228-720": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.623748Z",
+      "date": "2026-11-17T14:35:02.027113Z",
       "result": "Federal record matches reviewed baseline"
     },
     "228-721": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.872560Z",
+      "date": "2026-11-17T14:35:02.237853Z",
       "result": "Federal record matches reviewed baseline"
     },
     "264-1078": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.702597Z",
+      "date": "2026-11-17T14:35:02.378402Z",
       "result": "Federal record matches reviewed baseline"
     },
     "264-1084": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.841935Z",
+      "date": "2026-11-17T14:35:02.251126Z",
       "result": "Federal record matches reviewed baseline"
     },
     "264-1151": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.962649Z",
+      "date": "2026-11-17T14:35:02.531775Z",
       "result": "Federal record matches reviewed baseline"
     },
     "264-1152": {
       "status": "matched",
-      "date": "2026-11-17T00:51:11.980521Z",
+      "date": "2026-11-17T14:35:02.662250Z",
       "result": "Federal record matches reviewed baseline"
     },
     "264-1153": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.226714Z",
+      "date": "2026-11-17T14:35:02.659510Z",
       "result": "Federal record matches reviewed baseline"
     },
     "264-1160": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.227416Z",
+      "date": "2026-11-17T14:35:02.769315Z",
       "result": "Federal record matches reviewed baseline"
     },
     "264-825": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.212177Z",
+      "date": "2026-11-17T14:35:02.770225Z",
       "result": "Federal record matches reviewed baseline"
     },
     "2686-22": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.349055Z",
+      "date": "2026-11-17T14:35:02.915456Z",
       "result": "Federal record matches reviewed baseline"
     },
     "2749-649": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.596421Z",
+      "date": "2026-11-17T14:35:02.991679Z",
       "result": "Federal record matches reviewed baseline"
     },
     "2749-652": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.583339Z",
+      "date": "2026-11-17T14:35:03.126359Z",
       "result": "Federal record matches reviewed baseline"
     },
     "2749-655": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.554655Z",
+      "date": "2026-11-17T14:35:03.197514Z",
       "result": "Federal record matches reviewed baseline"
     },
     "279-3592": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.866870Z",
+      "date": "2026-11-17T14:35:03.248619Z",
       "result": "Federal record matches reviewed baseline"
     },
     "2935-560": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.918119Z",
+      "date": "2026-11-17T14:35:03.340730Z",
       "result": "Federal record matches reviewed baseline"
     },
     "33270-32": {
       "status": "matched",
-      "date": "2026-11-17T00:51:12.971555Z",
+      "date": "2026-11-17T14:35:03.500932Z",
       "result": "Federal record matches reviewed baseline"
     },
     "34704-1068": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.217408Z",
+      "date": "2026-11-17T14:35:03.482892Z",
       "result": "Federal record matches reviewed baseline"
     },
     "34704-1141": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.147395Z",
+      "date": "2026-11-17T14:35:03.504553Z",
       "result": "Federal record matches reviewed baseline"
     },
     "34704-1163": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.233427Z",
+      "date": "2026-11-17T14:35:03.793563Z",
       "result": "Federal record matches reviewed baseline"
     },
     "34704-924": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.386585Z",
+      "date": "2026-11-17T14:35:03.857995Z",
       "result": "Federal record matches reviewed baseline"
     },
     "352-834": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.557533Z",
+      "date": "2026-11-17T14:35:03.749096Z",
       "result": "Federal record matches reviewed baseline"
     },
     "352-836": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.467079Z",
+      "date": "2026-11-17T14:35:03.943013Z",
       "result": "Federal record matches reviewed baseline"
     },
     "352-840": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.473274Z",
+      "date": "2026-11-17T14:35:03.986235Z",
       "result": "Federal record matches reviewed baseline"
     },
     "352-942": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.608700Z",
+      "date": "2026-11-17T14:35:03.989408Z",
       "result": "Federal record matches reviewed baseline"
     },
     "42750-261": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.835828Z",
+      "date": "2026-11-17T14:35:04.130607Z",
       "result": "Federal record matches reviewed baseline"
     },
     "42750-289": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.721128Z",
+      "date": "2026-11-17T14:35:04.159575Z",
       "result": "Federal record matches reviewed baseline"
     },
     "44956-6": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.034670Z",
+      "date": "2026-11-17T14:35:04.441392Z",
       "result": "Federal record matches reviewed baseline"
     },
     "45002-24": {
       "status": "matched",
-      "date": "2026-11-17T00:51:13.889949Z",
+      "date": "2026-11-17T14:35:04.230719Z",
       "result": "Federal record matches reviewed baseline"
     },
     "45002-56": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.105155Z",
+      "date": "2026-11-17T14:35:04.517393Z",
       "result": "Federal record matches reviewed baseline"
     },
     "51517-11": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.091878Z",
+      "date": "2026-11-17T14:35:04.371665Z",
       "result": "Federal record matches reviewed baseline"
     },
     "52287-25": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.177047Z",
+      "date": "2026-11-17T14:35:04.716975Z",
       "result": "Federal record matches reviewed baseline"
     },
     "58866-12": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.306973Z",
+      "date": "2026-11-17T14:35:04.689970Z",
       "result": "Federal record matches reviewed baseline"
     },
     "59639-147": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.332827Z",
+      "date": "2026-11-17T14:35:04.698740Z",
       "result": "Federal record matches reviewed baseline"
     },
     "59639-198": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.351436Z",
+      "date": "2026-11-17T14:35:04.757548Z",
       "result": "Federal record matches reviewed baseline"
     },
     "59639-227": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.513749Z",
+      "date": "2026-11-17T14:35:04.921614Z",
       "result": "Federal record matches reviewed baseline"
     },
     "60063-12": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.544227Z",
+      "date": "2026-11-17T14:35:04.953912Z",
       "result": "Federal record matches reviewed baseline"
     },
     "60063-59": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.810151Z",
+      "date": "2026-11-17T14:35:05.228437Z",
       "result": "Federal record matches reviewed baseline"
     },
     "60063-80": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.607044Z",
+      "date": "2026-11-17T14:35:05.012717Z",
       "result": "Federal record matches reviewed baseline"
     },
     "60063-81": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.757967Z",
+      "date": "2026-11-17T14:35:05.133941Z",
       "result": "Federal record matches reviewed baseline"
     },
     "60063-83": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.785056Z",
+      "date": "2026-11-17T14:35:05.187273Z",
       "result": "Federal record matches reviewed baseline"
     },
     "60063-86": {
       "status": "matched",
-      "date": "2026-11-17T00:51:14.863970Z",
+      "date": "2026-11-17T14:35:05.238504Z",
       "result": "Federal record matches reviewed baseline"
     },
     "60063-93": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.029182Z",
+      "date": "2026-11-17T14:35:05.460633Z",
       "result": "Federal record matches reviewed baseline"
     },
     "61842-16": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.160857Z",
+      "date": "2026-11-17T14:35:05.536238Z",
       "result": "Federal record matches reviewed baseline"
     },
     "61842-18": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.073090Z",
+      "date": "2026-11-17T14:35:05.468700Z",
       "result": "Federal record matches reviewed baseline"
     },
     "62719-754": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.130696Z",
+      "date": "2026-11-17T14:35:05.463240Z",
       "result": "Federal record matches reviewed baseline"
     },
     "62719-788": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.277957Z",
+      "date": "2026-11-17T14:35:05.664031Z",
       "result": "Federal record matches reviewed baseline"
     },
     "64137-13": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.323016Z",
+      "date": "2026-11-17T14:35:05.715570Z",
       "result": "Federal record matches reviewed baseline"
     },
     "66222-145": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.566649Z",
+      "date": "2026-11-17T14:35:05.709576Z",
       "result": "Federal record matches reviewed baseline"
     },
     "66222-307": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.415180Z",
+      "date": "2026-11-17T14:35:05.760487Z",
       "result": "Federal record matches reviewed baseline"
     },
     "67690-109": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.674371Z",
+      "date": "2026-11-17T14:35:06.017925Z",
       "result": "Federal record matches reviewed baseline"
     },
     "67702-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.619255Z",
+      "date": "2026-11-17T14:35:06.058230Z",
       "result": "Federal record matches reviewed baseline"
     },
     "67702-22": {
       "status": "matched",
-      "date": "2026-11-17T00:51:15.764057Z",
+      "date": "2026-11-17T14:35:05.935917Z",
       "result": "Federal record matches reviewed baseline"
     },
     "68573-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.097237Z",
+      "date": "2026-11-17T14:35:06.192908Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70051-107": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.027542Z",
+      "date": "2026-11-17T14:35:06.323708Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70051-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.094815Z",
+      "date": "2026-11-17T14:35:06.402197Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70299-28": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.140184Z",
+      "date": "2026-11-17T14:35:06.451965Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70506-243": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.297738Z",
+      "date": "2026-11-17T14:35:06.413092Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70506-351": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.566893Z",
+      "date": "2026-11-17T14:35:06.805471Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70506-438": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.366804Z",
+      "date": "2026-11-17T14:35:06.640904Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70506-440": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.402542Z",
+      "date": "2026-11-17T14:35:06.661122Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70506-442": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.546011Z",
+      "date": "2026-11-17T14:35:06.661834Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70506-443": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.615759Z",
+      "date": "2026-11-17T14:35:06.851576Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70506-444": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.659273Z",
+      "date": "2026-11-17T14:35:06.909185Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70506-508": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.885962Z",
+      "date": "2026-11-17T14:35:06.916423Z",
       "result": "Federal record matches reviewed baseline"
     },
     "70506-608": {
       "status": "matched",
-      "date": "2026-11-17T00:51:17.941839Z",
+      "date": "2026-11-17T14:35:07.096777Z",
       "result": "Federal record matches reviewed baseline"
     },
     "71512-22": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.899341Z",
+      "date": "2026-11-17T14:35:07.080395Z",
       "result": "Federal record matches reviewed baseline"
     },
     "71532-35": {
       "status": "matched",
-      "date": "2026-11-17T00:51:16.934724Z",
+      "date": "2026-11-17T14:35:07.305017Z",
       "result": "Federal record matches reviewed baseline"
     },
     "71771-14": {
       "status": "matched",
-      "date": "2026-11-17T00:51:17.143368Z",
+      "date": "2026-11-17T14:35:07.144076Z",
       "result": "Federal record matches reviewed baseline"
     },
     "71840-18": {
       "status": "matched",
-      "date": "2026-11-17T00:51:17.253983Z",
+      "date": "2026-11-17T14:35:07.457681Z",
       "result": "Federal record matches reviewed baseline"
     },
     "71962-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:17.415133Z",
+      "date": "2026-11-17T14:35:07.573072Z",
       "result": "Federal record matches reviewed baseline"
     },
     "71962-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:17.413219Z",
+      "date": "2026-11-17T14:35:07.378166Z",
       "result": "Federal record matches reviewed baseline"
     },
     "72431-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:17.557685Z",
+      "date": "2026-11-17T14:35:07.716955Z",
       "result": "Federal record matches reviewed baseline"
     },
     "72662-10": {
       "status": "matched",
-      "date": "2026-11-17T00:51:17.776447Z",
+      "date": "2026-11-17T14:35:07.752996Z",
       "result": "Federal record matches reviewed baseline"
     },
     "72662-11": {
       "status": "matched",
-      "date": "2026-11-17T00:51:17.792331Z",
+      "date": "2026-11-17T14:35:07.816856Z",
       "result": "Federal record matches reviewed baseline"
     },
     "72662-12": {
       "status": "matched",
-      "date": "2026-11-17T00:51:17.855083Z",
+      "date": "2026-11-17T14:35:07.902632Z",
       "result": "Federal record matches reviewed baseline"
     },
     "72662-15": {
       "status": "matched",
-      "date": "2026-11-17T00:51:18.185564Z",
+      "date": "2026-11-17T14:35:08.088127Z",
       "result": "Federal record matches reviewed baseline"
     },
     "72662-17": {
       "status": "matched",
-      "date": "2026-11-17T00:51:18.296603Z",
+      "date": "2026-11-17T14:35:08.079569Z",
       "result": "Federal record matches reviewed baseline"
     },
     "72662-19": {
       "status": "matched",
-      "date": "2026-11-17T00:51:18.257266Z",
+      "date": "2026-11-17T14:35:08.247447Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73049-522": {
       "status": "matched",
-      "date": "2026-11-17T00:51:18.403845Z",
+      "date": "2026-11-17T14:35:08.219889Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73049-557": {
       "status": "matched",
-      "date": "2026-11-17T00:51:18.404296Z",
+      "date": "2026-11-17T14:35:08.321804Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73049-558": {
       "status": "matched",
-      "date": "2026-11-17T00:51:18.521910Z",
+      "date": "2026-11-17T14:35:08.292318Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73049-559": {
       "status": "matched",
-      "date": "2026-11-17T00:51:18.607840Z",
+      "date": "2026-11-17T14:35:08.556397Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73049-560": {
       "status": "matched",
-      "date": "2026-11-17T00:51:18.708925Z",
+      "date": "2026-11-17T14:35:08.619127Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73314-20": {
       "status": "matched",
-      "date": "2026-11-17T00:51:18.784591Z",
+      "date": "2026-11-17T14:35:08.652078Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73771-11": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.002889Z",
+      "date": "2026-11-17T14:35:08.830182Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73771-5": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.220727Z",
+      "date": "2026-11-17T14:35:09.280274Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73806-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.019483Z",
+      "date": "2026-11-17T14:35:09.040490Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73806-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.129615Z",
+      "date": "2026-11-17T14:35:09.046444Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73806-3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.567224Z",
+      "date": "2026-11-17T14:35:09.164291Z",
       "result": "Federal record matches reviewed baseline"
     },
     "73806-5": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.520097Z",
+      "date": "2026-11-17T14:35:09.412197Z",
       "result": "Federal record matches reviewed baseline"
     },
     "75747-3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.432388Z",
+      "date": "2026-11-17T14:35:09.320349Z",
       "result": "Federal record matches reviewed baseline"
     },
     "75747-5": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.645235Z",
+      "date": "2026-11-17T14:35:09.434683Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-186": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.703086Z",
+      "date": "2026-11-17T14:35:09.526752Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-197": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.880296Z",
+      "date": "2026-11-17T14:35:09.566111Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-289": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.966875Z",
+      "date": "2026-11-17T14:35:09.756173Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-309": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.899134Z",
+      "date": "2026-11-17T14:35:09.655017Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-310": {
       "status": "matched",
-      "date": "2026-11-17T00:51:19.961220Z",
+      "date": "2026-11-17T14:35:09.901575Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-311": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.266147Z",
+      "date": "2026-11-17T14:35:09.854496Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-406": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.133037Z",
+      "date": "2026-11-17T14:35:09.917142Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-408": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.284549Z",
+      "date": "2026-11-17T14:35:10.020257Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-409": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.214791Z",
+      "date": "2026-11-17T14:35:10.076196Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-411": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.424820Z",
+      "date": "2026-11-17T14:35:10.165436Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-486": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.561394Z",
+      "date": "2026-11-17T14:35:10.254506Z",
       "result": "Federal record matches reviewed baseline"
     },
     "7969-508": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.529923Z",
+      "date": "2026-11-17T14:35:10.257800Z",
       "result": "Federal record matches reviewed baseline"
     },
     "8033-122": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.579114Z",
+      "date": "2026-11-17T14:35:10.597825Z",
       "result": "Federal record matches reviewed baseline"
     },
     "8033-124": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.697723Z",
+      "date": "2026-11-17T14:35:10.415318Z",
       "result": "Federal record matches reviewed baseline"
     },
     "8033-125": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.771196Z",
+      "date": "2026-11-17T14:35:10.508373Z",
       "result": "Federal record matches reviewed baseline"
     },
     "8033-126": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.932478Z",
+      "date": "2026-11-17T14:35:10.523117Z",
       "result": "Federal record matches reviewed baseline"
     },
     "81606-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:20.889064Z",
+      "date": "2026-11-17T14:35:10.674760Z",
       "result": "Federal record matches reviewed baseline"
     },
     "82940-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.138271Z",
+      "date": "2026-11-17T14:35:10.938486Z",
       "result": "Federal record matches reviewed baseline"
     },
     "83070-14": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.098534Z",
+      "date": "2026-11-17T14:35:10.777690Z",
       "result": "Federal record matches reviewed baseline"
     },
     "83100-82": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.177538Z",
+      "date": "2026-11-17T14:35:10.811396Z",
       "result": "Federal record matches reviewed baseline"
     },
     "83529-124": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.263602Z",
+      "date": "2026-11-17T14:35:10.912257Z",
       "result": "Federal record matches reviewed baseline"
     },
     "83529-161": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.337479Z",
+      "date": "2026-11-17T14:35:11.005237Z",
       "result": "Federal record matches reviewed baseline"
     },
     "83529-284": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.393854Z",
+      "date": "2026-11-17T14:35:11.039730Z",
       "result": "Federal record matches reviewed baseline"
     },
     "83529-368": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.447090Z",
+      "date": "2026-11-17T14:35:11.121389Z",
       "result": "Federal record matches reviewed baseline"
     },
     "83529-64": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.807946Z",
+      "date": "2026-11-17T14:35:11.363840Z",
       "result": "Federal record matches reviewed baseline"
     },
     "83772-12": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.801330Z",
+      "date": "2026-11-17T14:35:11.429275Z",
       "result": "Federal record matches reviewed baseline"
     },
     "84059-22": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.658007Z",
+      "date": "2026-11-17T14:35:11.399933Z",
       "result": "Federal record matches reviewed baseline"
     },
     "84059-28": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.727916Z",
+      "date": "2026-11-17T14:35:11.406973Z",
       "result": "Federal record matches reviewed baseline"
     },
     "84059-3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:21.973728Z",
+      "date": "2026-11-17T14:35:11.630391Z",
       "result": "Federal record matches reviewed baseline"
     },
     "84059-34": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.372754Z",
+      "date": "2026-11-17T14:35:11.897260Z",
       "result": "Federal record matches reviewed baseline"
     },
     "84059-6": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.198939Z",
+      "date": "2026-11-17T14:35:11.642567Z",
       "result": "Federal record matches reviewed baseline"
     },
     "84229-3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.063767Z",
+      "date": "2026-11-17T14:35:11.671669Z",
       "result": "Federal record matches reviewed baseline"
     },
     "84229-47": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.290885Z",
+      "date": "2026-11-17T14:35:11.879257Z",
       "result": "Federal record matches reviewed baseline"
     },
     "85678-69": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.525665Z",
+      "date": "2026-11-17T14:35:11.963273Z",
       "result": "Federal record matches reviewed baseline"
     },
     "86431-37": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.459613Z",
+      "date": "2026-11-17T14:35:11.901395Z",
       "result": "Federal record matches reviewed baseline"
     },
     "87373-10": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.656016Z",
+      "date": "2026-11-17T14:35:12.130269Z",
       "result": "Federal record matches reviewed baseline"
     },
     "87373-6": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.650782Z",
+      "date": "2026-11-17T14:35:12.163080Z",
       "result": "Federal record matches reviewed baseline"
     },
     "87749-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.729096Z",
+      "date": "2026-11-17T14:35:12.134483Z",
       "result": "Federal record matches reviewed baseline"
     },
     "88760-10": {
       "status": "matched",
-      "date": "2026-11-17T00:51:22.987819Z",
+      "date": "2026-11-17T14:35:12.249764Z",
       "result": "Federal record matches reviewed baseline"
     },
     "88760-11": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.050566Z",
+      "date": "2026-11-17T14:35:12.507672Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89083-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.150814Z",
+      "date": "2026-11-17T14:35:12.498435Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89118-11": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.173429Z",
+      "date": "2026-11-17T14:35:12.579831Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89118-14": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.416583Z",
+      "date": "2026-11-17T14:35:12.705583Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89118-17": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.334910Z",
+      "date": "2026-11-17T14:35:12.734010Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89118-18": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.619609Z",
+      "date": "2026-11-17T14:35:12.915260Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89152-4": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.498480Z",
+      "date": "2026-11-17T14:35:13.027874Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89167-39": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.641604Z",
+      "date": "2026-11-17T14:35:13.005946Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89167-83": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.658123Z",
+      "date": "2026-11-17T14:35:12.976691Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89168-114": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.754010Z",
+      "date": "2026-11-17T14:35:13.109005Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89168-41": {
       "status": "matched",
-      "date": "2026-11-17T00:51:23.922040Z",
+      "date": "2026-11-17T14:35:13.308128Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89615-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.046341Z",
+      "date": "2026-11-17T14:35:13.410420Z",
       "result": "Federal record matches reviewed baseline"
     },
     "89615-3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.067184Z",
+      "date": "2026-11-17T14:35:13.512843Z",
       "result": "Federal record matches reviewed baseline"
     },
     "91234-158": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.016113Z",
+      "date": "2026-11-17T14:35:13.377291Z",
       "result": "Federal record matches reviewed baseline"
     },
     "91234-210": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.181049Z",
+      "date": "2026-11-17T14:35:13.524328Z",
       "result": "Federal record matches reviewed baseline"
     },
     "91234-248": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.385084Z",
+      "date": "2026-11-17T14:35:13.764719Z",
       "result": "Federal record matches reviewed baseline"
     },
     "91234-268": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.318725Z",
+      "date": "2026-11-17T14:35:13.679813Z",
       "result": "Federal record matches reviewed baseline"
     },
     "91234-345": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.470041Z",
+      "date": "2026-11-17T14:35:13.775993Z",
       "result": "Federal record matches reviewed baseline"
     },
     "91234-412": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.493238Z",
+      "date": "2026-11-17T14:35:13.802499Z",
       "result": "Federal record matches reviewed baseline"
     },
     "91234-74": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.827424Z",
+      "date": "2026-11-17T14:35:14.019225Z",
       "result": "Federal record matches reviewed baseline"
     },
     "91473-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.978033Z",
+      "date": "2026-11-17T14:35:14.183603Z",
       "result": "Federal record matches reviewed baseline"
     },
     "91865-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.776013Z",
+      "date": "2026-11-17T14:35:14.069096Z",
       "result": "Federal record matches reviewed baseline"
     },
     "92032-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:24.869035Z",
+      "date": "2026-11-17T14:35:14.217167Z",
       "result": "Federal record matches reviewed baseline"
     },
     "92144-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:25.196912Z",
+      "date": "2026-11-17T14:35:14.354212Z",
       "result": "Federal record matches reviewed baseline"
     },
     "92144-3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:25.294722Z",
+      "date": "2026-11-17T14:35:14.348859Z",
       "result": "Federal record matches reviewed baseline"
     },
     "92144-4": {
       "status": "matched",
-      "date": "2026-11-17T00:51:25.353137Z",
+      "date": "2026-11-17T14:35:14.571816Z",
       "result": "Federal record matches reviewed baseline"
     },
     "92647-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:25.474374Z",
+      "date": "2026-11-17T14:35:14.641187Z",
       "result": "Federal record matches reviewed baseline"
     },
     "93051-4": {
       "status": "matched",
-      "date": "2026-11-17T00:51:25.732085Z",
+      "date": "2026-11-17T14:35:14.886183Z",
       "result": "Federal record matches reviewed baseline"
     },
     "93505-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:25.628303Z",
+      "date": "2026-11-17T14:35:14.712582Z",
       "result": "Federal record matches reviewed baseline"
     },
     "93809-9": {
       "status": "matched",
-      "date": "2026-11-17T00:51:25.959783Z",
+      "date": "2026-11-17T14:35:15.033997Z",
       "result": "Federal record matches reviewed baseline"
     },
     "93930-4": {
       "status": "matched",
-      "date": "2026-11-17T00:51:25.900719Z",
+      "date": "2026-11-17T14:35:14.948349Z",
       "result": "Federal record matches reviewed baseline"
     },
     "93930-78": {
       "status": "matched",
-      "date": "2026-11-17T00:51:25.900095Z",
+      "date": "2026-11-17T14:35:14.968622Z",
       "result": "Federal record matches reviewed baseline"
     },
     "94614-9": {
       "status": "matched",
-      "date": "2026-11-17T00:51:26.021446Z",
+      "date": "2026-11-17T14:35:15.113339Z",
       "result": "Federal record matches reviewed baseline"
     },
     "94730-6": {
       "status": "matched",
-      "date": "2026-11-17T00:51:26.511341Z",
+      "date": "2026-11-17T14:35:15.418202Z",
       "result": "Federal record matches reviewed baseline"
     },
     "95653-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:26.416081Z",
+      "date": "2026-11-17T14:35:15.497152Z",
       "result": "Federal record matches reviewed baseline"
     },
     "95783-2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:26.428617Z",
+      "date": "2026-11-17T14:35:15.359481Z",
       "result": "Federal record matches reviewed baseline"
     },
     "99270-1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:26.490037Z",
+      "date": "2026-11-17T14:35:15.522232Z",
       "result": "Federal record matches reviewed baseline"
     }
   },
   "checks": {
     "epa_86431_37": {
       "status": "matched",
-      "date": "2026-11-17T00:51:26.857415Z",
+      "date": "2026-11-17T14:35:15.794076Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7d9269c056f930757669675ff329b40bd1374c5d2ebbbedfd4d6d94ab8ea1c08"
     },
     "epa_83529_64": {
       "status": "matched",
-      "date": "2026-11-17T00:51:26.807193Z",
+      "date": "2026-11-17T14:35:15.839984Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "61b1a1b94b9797a4d1d5dfb594f34b6d18f55693acded2000deeb0894dac31cd"
     },
     "epa_100_1716": {
       "status": "matched",
-      "date": "2026-11-17T00:51:26.856426Z",
+      "date": "2026-11-17T14:35:15.835002Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d13e247415183dd51218322d66936bff033652690014970ef0e0a389f7a3522a"
     },
     "epa_91234_248": {
       "status": "matched",
-      "date": "2026-11-17T00:51:26.898566Z",
+      "date": "2026-11-17T14:35:15.836849Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "3048c107ed018fce55b3a7c94d4c1398fb5ec50f98102cd57a7b811132f9edcd"
     },
     "affiance_gb3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:27.433506Z",
+      "date": "2026-11-17T14:35:15.928026Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "eef66975b74695c95f166f4c0a636c730b7863837a6320da5f7747fdc1da2ef1"
     },
     "aframe_live": {
       "status": "matched",
-      "date": "2026-11-17T00:51:29.433106Z",
+      "date": "2026-11-17T14:35:17.751690Z",
       "result": "Linked PDF matches reviewed fingerprint",
-      "sha256": "0e1e21675cba7f5885b7a8f49e693f599aacece5e0bb2969370e648a59392e4b"
+      "sha256": "a0b20b7ad946ac3c5be23ffbcce86529106d0167a1e20d4f34cbfea6445f03ff"
     },
     "epa_83070_14": {
       "status": "matched",
-      "date": "2026-11-17T00:51:27.214563Z",
+      "date": "2026-11-17T14:35:16.484348Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7ad8e55058f5bfaaca9fc0dee75e14873a14f61872630b193836722bc12b117e"
     },
     "andiamo": {
       "status": "matched",
-      "date": "2026-11-17T00:51:27.030652Z",
+      "date": "2026-11-17T14:35:15.931564Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1162b7c1b795341a87e183ff904c3b0db97fefa5a46c8cf3899dd8bed28851f4"
     },
     "aproach": {
       "status": "matched",
-      "date": "2026-11-17T00:51:27.151991Z",
+      "date": "2026-11-17T14:35:15.969981Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "e86aee8819eba1f87218db456f752a38dddd34b0eace316634edef858f5ec2cb"
     },
     "epa_75747_3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:27.360108Z",
+      "date": "2026-11-17T14:35:16.598734Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1b3820d1c010029e57ef7c3c67ae1ef1d48d225499d0209310ce48b7ad59ad0f"
     },
     "epa_75747_5": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.837035Z",
+      "date": "2026-11-17T14:35:18.959696Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1c7a34d9bfaa70e998ceb95a9e89740b513c1e7fa6128e356fe9b079c0a101e4"
     },
     "epa_91234_74": {
       "status": "matched",
-      "date": "2026-11-17T00:51:27.629008Z",
+      "date": "2026-11-17T14:35:16.878329Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7f761ecb32eb97486b07db37ac9e27a84029d3ec8a92297e0e62f5b0de65b0e3"
     },
     "aurelia": {
       "status": "matched",
-      "date": "2026-11-17T00:51:27.860336Z",
+      "date": "2026-11-17T14:35:17.027936Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "853aa7ebcb7e3691ffe59cb692bdf457f43174756f5a5348b62f17ba2204dc7b"
     },
     "epa_93930_4": {
       "status": "matched",
-      "date": "2026-11-17T00:51:28.122558Z",
+      "date": "2026-11-17T14:35:17.426529Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "fbecdfeb8009ec692865482589c66573faa7492ebe7727440d4ceb4e011657c4"
     },
     "aviv": {
       "status": "matched",
-      "date": "2026-11-17T00:51:28.037957Z",
+      "date": "2026-11-17T14:35:17.184098Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "6dfeb2a494999e573ae89ad5881287764ea70665fdf3a42874999932d9c45fd8"
     },
     "epa_89167_39": {
       "status": "matched",
-      "date": "2026-11-17T00:51:29.006145Z",
+      "date": "2026-11-17T14:35:18.138185Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1a55492f9886334ada0bbba92c9f345803f3e1d5caf4d16c3411ad835058006f"
     },
     "epa_93809_9": {
       "status": "matched",
-      "date": "2026-11-17T00:51:28.954188Z",
+      "date": "2026-11-17T14:35:17.878810Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "a39eaa100ad8354d797133fee54e81014ad2cbdaf07a6404e1db2d4754e8b914"
     },
     "epa_2749_655": {
       "status": "matched",
-      "date": "2026-11-17T00:51:29.497292Z",
+      "date": "2026-11-17T14:35:18.086072Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ef1d070359588fde2cf990b997cc1639dae570c75820743723ecfbc892b6f1a9"
     },
     "azoxystar": {
       "status": "matched",
-      "date": "2026-11-17T00:51:29.114169Z",
+      "date": "2026-11-17T14:35:17.962985Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "99541bbef531eabb0345696eb3f015dee762aa69a8b02de4b0c3cc9b2de734e3"
     },
     "epa_71532_35": {
       "status": "matched",
-      "date": "2026-11-17T00:51:29.610161Z",
+      "date": "2026-11-17T14:35:18.195815Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "66e637cbc23252aba7db165d9186f3126e569f5b5b033b353d95849cf6ad3018"
     },
     "epa_103591_138": {
       "status": "matched",
-      "date": "2026-11-17T00:51:29.672738Z",
+      "date": "2026-11-17T14:35:18.335666Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "2a9f17753575aeaa49c988702b313ef434c9d229934b01bfbe8ce5578cd7b664"
     },
     "epa_85678_69": {
       "status": "matched",
-      "date": "2026-11-17T00:51:29.982256Z",
+      "date": "2026-11-17T14:35:18.284520Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0cf1503800332755790512baa715231a338edb701cdd7fd7e7cc1fff0d6b1416"
     },
     "azoxy_sc": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.264077Z",
+      "date": "2026-11-17T14:35:18.372200Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7d95d62ce2c82ea84f9f3b2d84368e2b117f0e8d1d5e881c6ff6c6c96021956f"
     },
     "azterknot_gb0": {
       "status": "matched",
-      "date": "2026-11-17T00:51:29.793169Z",
+      "date": "2026-11-17T14:35:18.595472Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "584b53b4c48612fa056c4d0f593769ec8fa874114c16051ff50186356116e97b"
     },
     "azteroid33": {
       "status": "matched",
-      "date": "2026-11-17T00:51:29.992265Z",
+      "date": "2026-11-17T14:35:18.625010Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1006f0bb41a3d5636a8e77dad3344036ad56bb70057694d832986a332e72b03b"
     },
     "epa_89118_18": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.572937Z",
+      "date": "2026-11-17T14:35:19.088666Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ec877e4a20ebc74ee8d66c449430733e7339d2160ec5f8fee92592081d57dab2"
     },
     "epa_228_720": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.370179Z",
+      "date": "2026-11-17T14:35:19.228318Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c693668d8f95c033941e488971f70e6ee880c567a0529b6240a379a8dde744a3"
     },
     "epa_93505_1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.672026Z",
+      "date": "2026-11-17T14:35:19.265350Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c7bff7b69da19ec18cc598906214f6c43fbe0961ee869b8b7f9d750c474c9fd4"
     },
     "ballad_plus": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.547429Z",
+      "date": "2026-11-17T14:35:19.111079Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "50fed582e40faf162d80e0bce82834b6c78309c536f3c81a9e97cb956779fa84"
     },
     "epa_60063_80": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.828352Z",
+      "date": "2026-11-17T14:35:19.795124Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "256d62ddbae32c877d7abae85015fb7e422c5fd0564f0ea8d08798168a5da6b8"
     },
     "bonafide": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.853162Z",
+      "date": "2026-11-17T14:35:19.377243Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0048579deb0255025deb9259bf492cec140da6f3916a2a5c299981e3a1429cf7"
     },
     "brixen": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.810225Z",
+      "date": "2026-11-17T14:35:19.355789Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c789becb3ff2b6b6926cef633be57be8324e72d7e78e87e3c0625d47e324c6d8"
     },
     "cortina_epa": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.978614Z",
+      "date": "2026-11-17T14:35:20.025230Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d89c769fb68627e989728a3598bc6b74e9ddb996a6999a333467dafbceae93ae"
     },
     "cover_live": {
       "status": "matched",
-      "date": "2026-11-17T00:51:30.868624Z",
+      "date": "2026-11-17T14:35:19.372227Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7e3dff3a4e3a07f99adbcba798e3c11cb187192bb76129cc340a699a4a31fece"
     },
     "epa_101458_5": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.170420Z",
+      "date": "2026-11-17T14:35:20.113966Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5ac34a6016692e53d3c5a323cb42a2373ecc73f134d459a2af9572d675444b86"
     },
     "epa_73049_558": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.191792Z",
+      "date": "2026-11-17T14:35:19.918554Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "f8332013c930303517cfd275e25403857b9ff4fd9f42118952e5adbbdcc07280"
     },
     "epa_73049_559": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.179660Z",
+      "date": "2026-11-17T14:35:20.058302Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ee2422173460c8ad18125446af544d35409a53f19bb760f8e21df42327f4bb7a"
     },
     "epa_73049_557": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.290921Z",
+      "date": "2026-11-17T14:35:20.330149Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "6df079ca655a429552d9943e662b6a9191a39737e219aa0a637460b443a71975"
     },
     "epa_73049_560": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.508894Z",
+      "date": "2026-11-17T14:35:20.401422Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "90b08020f3ad762dd54ef8fc7edc4c8482f614806e05984673a075917ea6419f"
     },
     "epa_70506_351": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.531896Z",
+      "date": "2026-11-17T14:35:20.331609Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "21fcf8f139cf9ebef65a6134d1b1ef18926b4ec55a6117cdcca819ee5ccfdcf5"
     },
     "domark": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.389659Z",
+      "date": "2026-11-17T14:35:20.517962Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d45cd7f9a180e995503ee327dcd72b424d973249da3f24e23590445d92c004dc"
     },
     "endura": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.748954Z",
+      "date": "2026-11-17T14:35:20.611952Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "e186240c9f74027939c1c5327679bca8e1c46f8afa14b92b4dd15dfb0a2155c8"
     },
     "endura_pro": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.448550Z",
+      "date": "2026-11-17T14:35:20.397252Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "8f3a0ace55a877e6e7ff74674ff26bb50abaabd1c7ca39840de4686e35fe81d5"
     },
     "entador": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.658066Z",
+      "date": "2026-11-17T14:35:20.655976Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "eeaca6a227b6fcaf35b7a9578ff679b307b808882337894d481fc85b70af9ef0"
     },
     "epa_279_3592": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.919378Z",
+      "date": "2026-11-17T14:35:20.820222Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "3722d1e280c7b31e5d767a2dbc821d2a30920e5c218dc4d3e6f9f1d82e837294"
     },
     "epa_91234_268": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.956355Z",
+      "date": "2026-11-17T14:35:20.950918Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "3f7baeb26a55da816d58776256455233215e045de25ff3f3f43b27af85e2d220"
     },
     "everlon": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.825685Z",
+      "date": "2026-11-17T14:35:20.734174Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "fef4e2b6e8a844f395a264b92c832ed4dbc2448a8e444f3411500dc25f905778"
     },
     "fontelis_current": {
       "status": "matched",
-      "date": "2026-11-17T00:51:31.860942Z",
+      "date": "2026-11-17T14:35:20.749906Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "eb8be714e504a0754b486becbbf19c1cd11138026e574ce81f7b249c1dd6828c"
     },
     "epa_92144_2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.271685Z",
+      "date": "2026-11-17T14:35:20.968268Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "9e66a6f7674728367dd2fa2f62555a22c4baa755aa071d8974cab6d3552f2a82"
     },
     "epa_92144_3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.036344Z",
+      "date": "2026-11-17T14:35:21.064681Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "741bd28eaf79de631222b9f83236bd170fa6a3800b8b727da82be05fcb7d16e2"
     },
     "epa_70506_442": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.123579Z",
+      "date": "2026-11-17T14:35:21.116536Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "cff52be426bc2864782dfad97ff916d6e8cc9eb9d195c1055565b74bfcc9f5af"
     },
     "gcs_azoxy": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.044890Z",
+      "date": "2026-11-17T14:35:20.997388Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5dc08f75268c9558cdc72c8714a364ba1ceaf37e2584395458b27915f85e34f5"
     },
     "epa_62719_754": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.323927Z",
+      "date": "2026-11-17T14:35:21.733342Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "2ddbc57cd17cde935f552fb5b7ed3ed2f23fe37898e81ce7b5a1ad053e70757e"
     },
     "epa_2686_22": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.727306Z",
+      "date": "2026-11-17T14:35:22.056490Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5a6d3df3bb9509b6b875003cf4e420b24103722bf0603ad39496f0152a693709"
     },
     "epa_59639_198": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.441435Z",
+      "date": "2026-11-17T14:35:21.797515Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d6d7b7e2a6d698507f408558bb161fec787d4cde6b2cddb9d2b6cf240bba8848"
     },
     "kenja": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.446141Z",
+      "date": "2026-11-17T14:35:21.251855Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1c1c286c84480a6a2e1a5eec608ae229b4360631db8e3c917673e000bd8fe065"
     },
     "epa_99270_1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.468445Z",
+      "date": "2026-11-17T14:35:21.776515Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "928cb88abb88adda0879e2a3ee655bc271192b7d1e26ba8b62671050778ce9f8"
     },
     "epa_89168_41": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.301104Z",
+      "date": "2026-11-17T14:35:22.136405Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "83f07d5dae46e582c63ca6d6a036be6ae541a2783ecb621e492723407f2b8989"
     },
     "epa_34704_1163": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.000569Z",
+      "date": "2026-11-17T14:35:22.183756Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "41fd81dd317fce6ffe0c51718df505af5c8e4b4a25cd11f6e416b1e3b467004d"
     },
     "epa_264_1078": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.769779Z",
+      "date": "2026-11-17T14:35:22.062462Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "35d1f67aa2ff110b807279c7a50b3bad68079970a347de59ed044f99ba36cbfb"
     },
     "maxentis": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.814804Z",
+      "date": "2026-11-17T14:35:22.169937Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7823dfa2fd81b23d160097dd1b5597206a202ac56a91e48c1a9b05325a0672a4"
     },
     "epa_7969_310": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.325120Z",
+      "date": "2026-11-17T14:35:23.223667Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "4aefc94011709a82174af00a2265c35210ce2c46378254c605b097f56c087b7b"
     },
     "microp_supp3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:32.870821Z",
+      "date": "2026-11-17T14:35:22.205679Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "6a548ac8c48ed165daf35232045608f972d3720bb01a55ed8774d84ea9c961f7"
     },
     "epa_72662_10": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.025171Z",
+      "date": "2026-11-17T14:35:23.051909Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "70104af7c143031ebba08eac8a95a062af482c7dba70e02df295474d1047d3e4"
     },
     "epa_89615_2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.198983Z",
+      "date": "2026-11-17T14:35:23.166669Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "3d7256f754f45458dbe3f91da61d0bd5df2e2f1d0227ab5a74c480ff37b03702"
     },
     "epa_89615_3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.636479Z",
+      "date": "2026-11-17T14:35:23.007737Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "353d47db58a9c3e31f142629c8c38858759253b17984c34361afc605ac8c96aa"
     },
     "epa_60063_12": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.646860Z",
+      "date": "2026-11-17T14:35:23.365494Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5cdecb3e2ed5b4494b5e451ede6d788afa00c81671052f36ffcaea3e5eab6225"
     },
     "epa_100_1601": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.703366Z",
+      "date": "2026-11-17T14:35:23.431665Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "8e3912d7a677af7592e38d1bc19de53f55219ac35905d796c7de0ccbe33c6566"
     },
     "miravis_neo": {
       "status": "matched",
-      "date": "2026-11-17T00:51:35.960040Z",
+      "date": "2026-11-17T14:35:26.160623Z",
       "result": "Linked PDF matches reviewed fingerprint",
-      "sha256": "1cd4badfe8ed0ff20ea59b0c01c41d3d47943568036b6d8cc1a090fc8aae7c5b"
+      "sha256": "6ad72557a5bc79b7bd5801368abc1fdc6870e99badccd6a5e6c0bbad80f2c747"
     },
     "epa_100_1602": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.941281Z",
+      "date": "2026-11-17T14:35:23.569976Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c4e5f17d12f615d061474eb5832f22024a6878332dceca7a244091ab5084f1ca"
     },
     "epa_228_721": {
       "status": "matched",
-      "date": "2026-11-17T00:51:34.048276Z",
+      "date": "2026-11-17T14:35:23.713848Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "95ea887ae444170b8ba1a73cdb619bbdcbc8683ed17faa84aa3e7fb3375a37d1"
     },
     "oxidate": {
       "status": "matched",
-      "date": "2026-11-17T00:51:33.833936Z",
+      "date": "2026-11-17T14:35:23.524415Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "a64eee3c267682552a716e0fa61c4edcb29aa1247b2ed0dea87c0164d803f804"
     },
     "epa_73806_3": {
       "status": "matched",
-      "date": "2026-11-17T00:51:34.453805Z",
+      "date": "2026-11-17T14:35:23.865699Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "9717c8b46e2b0dde37d0a04ed567ce384ffa639aff932daa76e1fd3c7b871b95"
     },
     "epa_73806_1": {
       "status": "matched",
-      "date": "2026-11-17T00:51:34.259861Z",
+      "date": "2026-11-17T14:35:23.812417Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0e236cef23cdf9f67ae32afe46e415d01b2ab473a4b20ddbaee5dc62605fc995"
     },
     "epa_73806_5": {
       "status": "matched",
-      "date": "2026-11-17T00:51:34.691269Z",
+      "date": "2026-11-17T14:35:24.057210Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d3e9006847509609d7f51d1946b7f051018aceecc264b1db6fdd05ef8d34b563"
     },
     "epa_71771_14": {
       "status": "matched",
-      "date": "2026-11-17T00:51:34.704931Z",
+      "date": "2026-11-17T14:35:24.109365Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "b771a0f9a79c33b29ae71e96a8cc8a2762abc036386e8b99b33c24f54f1cd064"
     },
     "phobos": {
       "status": "matched",
-      "date": "2026-11-17T00:51:34.595868Z",
+      "date": "2026-11-17T14:35:24.380705Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "bba2560a91a27f36eed8a89d497099b4924015fcd0c3fe4afae0cf3a5f99236d"
     },
     "polyversum": {
       "status": "matched",
-      "date": "2026-11-17T00:51:34.886415Z",
+      "date": "2026-11-17T14:35:24.393063Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ccbe5a4bd56b009ba6f40f500f2695bd6399b27ffbd94015966731204831cb0f"
     },
     "prabha": {
       "status": "matched",
-      "date": "2026-11-17T00:51:34.823563Z",
+      "date": "2026-11-17T14:35:24.258935Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "697e32789790b51a3ad450957c7bf4c593e68c32e4ce51fdcb267fc432d0901a"
     },
     "epa_64137_13": {
       "status": "matched",
-      "date": "2026-11-17T00:51:34.949960Z",
+      "date": "2026-11-17T14:35:24.648742Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "310eaadb8fd26d91145f5fb5e33e24ac43c8ea83e7346f162abf4412f315ac82"
     },
     "priaxor": {
       "status": "matched",
-      "date": "2026-11-17T00:51:35.384719Z",
+      "date": "2026-11-17T14:35:24.892388Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d97571413b86fc0097327925e85d9bbdb71e6838cf0f5cf124cecdc2a55b51ce"
     },
     "proline": {
       "status": "matched",
-      "date": "2026-11-17T00:51:35.176409Z",
+      "date": "2026-11-17T14:35:24.641325Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "15ab1bfd06f03564c0b6b6035a657a44cfe1ab41eb15de9ee7a2c8f37a17d63a"
     },
     "propulse_epa": {
       "status": "matched",
-      "date": "2026-11-17T00:51:35.209265Z",
+      "date": "2026-11-17T14:35:24.877392Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "00d092195573a8baa8ebbd9064294f7ecb953a9f1c02ceefbb2fd8428a13a76f"
     },
     "epa_95783_2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:35.628357Z",
+      "date": "2026-11-17T14:35:25.004644Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "b937cb339bdca07bff3d787a8a97f93409b95ad254304d930d5706797307fc37"
     },
     "epa_2749_652": {
       "status": "matched",
-      "date": "2026-11-17T00:51:35.850717Z",
+      "date": "2026-11-17T14:35:25.254036Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "b59f2298e6c7f1e7df6ffac48503f57337a5ae22d91903e70aa4b82b28dff86e"
     },
     "epa_91234_345": {
       "status": "matched",
-      "date": "2026-11-17T00:51:35.768709Z",
+      "date": "2026-11-17T14:35:25.217791Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "93065f2bef8c000335d5e58399eb789b7b4dda539a141638d1e01def50964641"
     },
     "prozio_sc": {
       "status": "matched",
-      "date": "2026-11-17T00:51:36.061907Z",
+      "date": "2026-11-17T14:35:25.529589Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "bb4b67a1c97b28750988dde38a47ab6249ac1fa8b75cfc1420af84d9af0fa88c"
     },
     "quadris": {
       "status": "matched",
-      "date": "2026-11-17T00:51:38.326595Z",
+      "date": "2026-11-17T14:35:27.059273Z",
       "result": "Linked PDF matches reviewed fingerprint",
-      "sha256": "c7fa5e15f18865b5c8aa5761971757141cbf507ecad761e2f80da515f036d895"
+      "sha256": "ce4c22817e782b9de3e26dd5435a3727e4fa0bced5a1c4ea55c60fc5d54a49b0"
     },
     "epa_59639_227": {
       "status": "matched",
-      "date": "2026-11-17T00:51:36.132152Z",
+      "date": "2026-11-17T14:35:25.690515Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "a25c6c4c002550855602ba889e3aebcd6d2890bafe1489c5e12fd38536776247"
     },
     "quash": {
       "status": "matched",
-      "date": "2026-11-17T00:51:36.763419Z",
+      "date": "2026-11-17T14:35:26.276915Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "071adb2416de9ebcb0dce78e585802b79fbd464d3bd3e51b9e0f25e21420713f"
     },
     "epa_84059_22": {
       "status": "matched",
-      "date": "2026-11-17T00:51:40.927712Z",
+      "date": "2026-11-17T14:35:29.215952Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c74dc72288cbb5e7bcde4c649d961d1a912cba9de28f91559bae66ec2bc9bf85"
     },
     "regalia": {
       "status": "matched",
-      "date": "2026-11-17T00:51:36.318898Z",
+      "date": "2026-11-17T14:35:26.212376Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "cd1040c30213948f5a3d6b448294981ab3044bd1a9fd5fc76b8e8ef0977f9ea1"
     },
     "regalia_rx": {
       "status": "matched",
-      "date": "2026-11-17T00:51:36.413006Z",
+      "date": "2026-11-17T14:35:26.263793Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "983bea74c3ddd7d7db5b98f422f463f39d67452690517180efec1a2ac4d2e0f3"
     },
     "republic": {
       "status": "matched",
-      "date": "2026-11-17T00:51:36.507970Z",
+      "date": "2026-11-17T14:35:26.361036Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "cd59959fa9dd71b432e14e3b673760de9a8f4c8cace97166074f5f9b6e386da4"
     },
     "revytek_gb0": {
       "status": "matched",
-      "date": "2026-11-17T00:51:36.595156Z",
+      "date": "2026-11-17T14:35:26.335304Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "9c09d57ee85884b46d1ab9d5b5be361b1d40f4c4cb4bb9e4e5301707033f1cbb"
     },
     "epa_93051_4": {
       "status": "matched",
-      "date": "2026-11-17T00:51:36.862728Z",
+      "date": "2026-11-17T14:35:26.700149Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "50f6582f67c9846cc789b968d5f56008fc5f1a0f9bc330d264b97879753dbca9"
     },
     "epa_103591_5": {
       "status": "matched",
-      "date": "2026-11-17T00:51:37.330072Z",
+      "date": "2026-11-17T14:35:26.599072Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0db3b895596846b56fa7bc19152d81fb42472e8c8714d3b7b9cfdc3d3899d9b1"
     },
     "satori": {
       "status": "matched",
-      "date": "2026-11-17T00:51:36.928974Z",
+      "date": "2026-11-17T14:35:26.745126Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "de65b169069da9025e7d5712a2347fd4dfe45b577df2566ee57c50fed9b2072e"
     },
     "epa_7969_309": {
       "status": "matched",
-      "date": "2026-11-17T00:51:37.337493Z",
+      "date": "2026-11-17T14:35:26.837218Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "75089d429a2e3bfd42e6d6b837a6bcf248f4846401adb7b892dd139ee467afa7"
     },
     "serenade_aso": {
       "status": "matched",
-      "date": "2026-11-17T00:51:37.722616Z",
+      "date": "2026-11-17T14:35:26.952709Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "37638ba15a3a2203c9ef75dbc48c94e2cad04b7a59e11250fb845f3c02578ddb"
     },
     "epa_264_1151": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.176044Z",
+      "date": "2026-11-17T14:35:28.826523Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "f7c47e4627ffd70f8cf182988a0fd67fbd1551db292f2d51ae55fd17f6b00cc7"
     },
     "serenade_opti": {
       "status": "matched",
-      "date": "2026-11-17T00:51:38.037810Z",
+      "date": "2026-11-17T14:35:27.429708Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "b501669187a24d3170fbc4c9652cdc90912f70a3d45bbe8e069f09c242013c1f"
     },
     "epa_71840_18": {
       "status": "matched",
-      "date": "2026-11-17T00:51:38.770114Z",
+      "date": "2026-11-17T14:35:27.929144Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "91cf4b149219309323676ef82104cd3e3eb9a3317986f01ecbedabcc2825c839"
     },
     "epa_72662_11": {
       "status": "matched",
-      "date": "2026-11-17T00:51:38.960614Z",
+      "date": "2026-11-17T14:35:28.135970Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "e57cea1d94912ecdc5a57cd896d8cb596cc21f4c3b6f00aa8302bfb8945a5e46"
     },
     "sonata_current": {
       "status": "matched",
-      "date": "2026-11-17T00:51:38.917527Z",
+      "date": "2026-11-17T14:35:28.174211Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "a36486e19f016e3d349dea5e519fed05b9a9cbed86d8d3d98ccf562e09099a19"
     },
     "stargus": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.029481Z",
+      "date": "2026-11-17T14:35:28.208555Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "defd24cf998f86be9291cdfd76f9bf9717a6eaf2a478133382b923a0c4f5a23e"
     },
     "epa_100_1770": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.138304Z",
+      "date": "2026-11-17T14:35:28.397615Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0d1dab2bb0512dd3addcb95b261697af81bd0c558ebbda5ce0410448d2d14694"
     },
     "epa_70506_440": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.246060Z",
+      "date": "2026-11-17T14:35:28.495603Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "f682d9bc7025610ea4c8b3b77ea75c0474a6fd44dd0297618f089edcdf8e6365"
     },
     "epa_70506_508": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.451337Z",
+      "date": "2026-11-17T14:35:28.526966Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "f8ab959cdd656be50e238f0c4f00da6838517f16d29ede4ad824e4464d3e03d5"
     },
     "tetraban": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.565320Z",
+      "date": "2026-11-17T14:35:29.394071Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5cf5205cf6f53ceabe9a355ec4625cb80416a2ceea8aa34fdf84f438d2b96c82"
     },
     "epa_33270_32": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.642884Z",
+      "date": "2026-11-17T14:35:28.853305Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "11186dc9225211a5e2a725367d4c13f4276c4660bfbc8a0fd57ad4e8f307189c"
     },
     "epa_84229_47": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.647488Z",
+      "date": "2026-11-17T14:35:29.128714Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "821c972bfb7f26e06344151e8ca957b8a68d81e4ed1cfb0c88337218e50540e5"
     },
     "epa_92647_2": {
       "status": "matched",
-      "date": "2026-11-17T00:51:40.279952Z",
+      "date": "2026-11-17T14:35:29.718054Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "b9c39c63036dc6143b5b32956aeeb2c6fcbcbc0196d1bd06b7bb5549fb67572f"
     },
     "epa_60063_86": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.926825Z",
+      "date": "2026-11-17T14:35:29.597243Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1fd34feacaa9ea9a6e85dd4d4771eebde7dbed077ec6cc9dc98bee582748b980"
     },
     "vacciplant": {
       "status": "matched",
-      "date": "2026-11-17T00:51:39.922925Z",
+      "date": "2026-11-17T14:35:29.888244Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "9eff80253bc4b80fd8b214087ef9c654c0576ad64418e705ce005d3ce28e65d2"
     },
     "epa_62719_788": {
       "status": "matched",
-      "date": "2026-11-17T00:51:40.263668Z",
+      "date": "2026-11-17T14:35:29.749993Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d8eb4688cbf0eb0fb97a5eae938be6abe12264752012f308fc2eef2a4880b89d"
     },
     "vertisan": {
       "status": "matched",
-      "date": "2026-11-17T00:51:43.228226Z",
+      "date": "2026-11-17T14:35:32.265241Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "067c548d29a2e01f5a26e26a55ee4105d35c84b2f37a15c48cc3be3e58788221"
     },
     "viatude": {
       "status": "matched",
-      "date": "2026-11-17T00:51:41.071748Z",
+      "date": "2026-11-17T14:35:30.610535Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "67ccf40ac5102cab98171532a00e202d6d3fcac2f5bef14bc6f925ebb70e6d25"
     },
     "epa_10163_405": {
       "status": "matched",
-      "date": "2026-11-17T00:51:40.504221Z",
+      "date": "2026-11-17T14:35:30.011282Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "db4f8e37bda74365a3006bdc77a3c6752b408782246db698b990ee408d5b109a"
     },
     "zolera_fx": {
       "status": "matched",
-      "date": "2026-11-17T00:51:40.746667Z",
+      "date": "2026-11-17T14:35:30.086111Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "e5605d2720c37bc9be93ddee9c47ffd1a8455c1b87b3971ad8147dafda4f50fc"
     },
     "epa_70506_443": {
       "status": "matched",
-      "date": "2026-11-17T00:51:40.931390Z",
+      "date": "2026-11-17T14:35:30.162310Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7bfb7d43fefd6bf28aa061d6dfdba713524a21ddf9d157ac9dca8bc54efeae2c"
     },
     "zorina": {
       "status": "matched",
-      "date": "2026-11-17T00:51:41.009103Z",
+      "date": "2026-11-17T14:35:30.133805Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ce8a647c3988510c62f50b0d5dcffee2789fb35667b25ce3d2b11f174675281d"
     }
@@ -1723,7 +1723,7 @@
   "feedChecks": {
     "uk": {
       "status": "matched",
-      "date": "2026-11-17T00:51:44.159362Z",
+      "date": "2026-11-17T14:35:33.280193Z",
       "url": "https://kentuckypestnews.wordpress.com/2026/03/24/consider-a-foliar-fungicide-application-on-canola-for-management-of-white-mold-2/",
       "modified": "2026-03-24T14:17:31-04:00",
       "title": "Consider a Foliar Fungicide Application on Canola for Management of White Mold",
@@ -1731,7 +1731,7 @@
     },
     "ut": {
       "status": "matched",
-      "date": "2026-11-17T00:51:44.618257Z",
+      "date": "2026-11-17T14:35:33.633369Z",
       "url": "https://news.utcrops.com/2026/02/white-mold-sclerotinia-stem-rot-in-tennessee-winter-canola/",
       "modified": "2026-06-22T09:33:06",
       "title": "White Mold (Sclerotinia Stem Rot) in Tennessee Winter Canola",
@@ -1851,7 +1851,7 @@
           "pdffile_accepted_date": "February 7, 1997"
         }
       ],
-      "checked": "2026-11-17T00:51:09.197172Z"
+      "checked": "2026-11-17T14:34:59.914538Z"
     },
     "100-1098": {
       "reg": "100-1098",
@@ -1869,11 +1869,11 @@
         }
       ],
       "aliases": [
-        "QUADRIS FLOWABLE FUNGICIDE",
-        "DIPLOMA FUNGICIDE",
-        "AZOXY FLOWABLE FUNGICIDE",
         "DIPLOMA",
-        "AFRAME"
+        "AFRAME",
+        "AZOXY FLOWABLE FUNGICIDE",
+        "QUADRIS FLOWABLE FUNGICIDE",
+        "DIPLOMA FUNGICIDE"
       ],
       "transfers": [
         {
@@ -2086,7 +2086,7 @@
           "pdffile_accepted_date": "June 3, 1997"
         }
       ],
-      "checked": "2026-11-17T00:51:09.262008Z"
+      "checked": "2026-11-17T14:34:59.794137Z"
     },
     "100-1262": {
       "reg": "100-1262",
@@ -2104,9 +2104,9 @@
         }
       ],
       "aliases": [
-        "TOP MP",
         "INSPIRE MP",
         "INSPIRE SB",
+        "TOP MP",
         "INSPIRE SUPER MP"
       ],
       "transfers": [],
@@ -2184,7 +2184,7 @@
           "pdffile_accepted_date": "January 16, 2008"
         }
       ],
-      "checked": "2026-11-17T00:51:09.265423Z"
+      "checked": "2026-11-17T14:34:59.868446Z"
     },
     "100-1312": {
       "reg": "100-1312",
@@ -2253,7 +2253,7 @@
           "pdffile_accepted_date": "April 21, 2010"
         }
       ],
-      "checked": "2026-11-17T00:51:09.141966Z"
+      "checked": "2026-11-17T14:34:59.753070Z"
     },
     "100-1471": {
       "reg": "100-1471",
@@ -2271,8 +2271,8 @@
         }
       ],
       "aliases": [
-        "TRIVAPRO A",
-        "APROVIA ABN FUNGICIDE"
+        "APROVIA ABN FUNGICIDE",
+        "TRIVAPRO A"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/000100-01471-20241030.pdf",
@@ -2329,7 +2329,7 @@
           "pdffile_accepted_date": "August 28, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:09.557248Z"
+      "checked": "2026-11-17T14:35:00.139213Z"
     },
     "100-1475": {
       "reg": "100-1475",
@@ -2385,7 +2385,7 @@
           "pdffile_accepted_date": "August 28, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:09.465200Z"
+      "checked": "2026-11-17T14:34:59.999449Z"
     },
     "100-1476": {
       "reg": "100-1476",
@@ -2469,7 +2469,7 @@
           "pdffile_accepted_date": "August 28, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:09.602026Z"
+      "checked": "2026-11-17T14:35:00.234729Z"
     },
     "100-1480": {
       "reg": "100-1480",
@@ -2538,7 +2538,7 @@
           "pdffile_accepted_date": "August 28, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:09.638404Z"
+      "checked": "2026-11-17T14:35:00.299012Z"
     },
     "100-1601": {
       "reg": "100-1601",
@@ -2609,7 +2609,7 @@
           "pdffile_accepted_date": "May 23, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:09.883734Z"
+      "checked": "2026-11-17T14:35:00.265095Z"
     },
     "100-1602": {
       "reg": "100-1602",
@@ -2661,7 +2661,7 @@
           "pdffile_accepted_date": "May 23, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:09.832669Z"
+      "checked": "2026-11-17T14:35:00.485757Z"
     },
     "100-1605": {
       "reg": "100-1605",
@@ -2733,7 +2733,7 @@
           "pdffile_accepted_date": "May 23, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:09.926076Z"
+      "checked": "2026-11-17T14:35:00.531606Z"
     },
     "100-1613": {
       "reg": "100-1613",
@@ -2810,7 +2810,7 @@
           "pdffile_accepted_date": "February 16, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:09.884410Z"
+      "checked": "2026-11-17T14:35:00.484252Z"
     },
     "100-1716": {
       "reg": "100-1716",
@@ -2852,7 +2852,7 @@
           "pdffile_accepted_date": "February 16, 2023"
         }
       ],
-      "checked": "2026-11-17T00:51:10.068359Z"
+      "checked": "2026-11-17T14:35:00.534164Z"
     },
     "100-1770": {
       "reg": "100-1770",
@@ -2885,7 +2885,7 @@
           "pdffile_accepted_date": "August 22, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:10.304748Z"
+      "checked": "2026-11-17T14:35:00.833918Z"
     },
     "100-617": {
       "reg": "100-617",
@@ -3125,7 +3125,7 @@
           "pdffile_accepted_date": "July 13, 1987"
         }
       ],
-      "checked": "2026-11-17T00:51:10.267040Z"
+      "checked": "2026-11-17T14:35:00.853573Z"
     },
     "101458-5": {
       "reg": "101458-5",
@@ -3158,7 +3158,7 @@
           "pdffile_accepted_date": "June 15, 2023"
         }
       ],
-      "checked": "2026-11-17T00:51:10.512128Z"
+      "checked": "2026-11-17T14:35:01.015964Z"
     },
     "10163-324": {
       "reg": "10163-324",
@@ -3176,8 +3176,8 @@
         }
       ],
       "aliases": [
-        "M-PEDE INSECTICIDE/MITICIDE/FUNGICIDE",
-        "M-PEDE INSECTICIDE/FUNGICIDE"
+        "M-PEDE INSECTICIDE/FUNGICIDE",
+        "M-PEDE INSECTICIDE/MITICIDE/FUNGICIDE"
       ],
       "transfers": [
         {
@@ -3305,7 +3305,7 @@
           "pdffile_accepted_date": "May 9, 1991"
         }
       ],
-      "checked": "2026-11-17T00:51:10.321270Z"
+      "checked": "2026-11-17T14:35:00.761839Z"
     },
     "10163-332": {
       "reg": "10163-332",
@@ -3380,7 +3380,7 @@
           "pdffile_accepted_date": "March 12, 2014"
         }
       ],
-      "checked": "2026-11-17T00:51:10.512857Z"
+      "checked": "2026-11-17T14:35:00.981077Z"
     },
     "10163-397": {
       "reg": "10163-397",
@@ -3464,7 +3464,7 @@
           "pdffile_accepted_date": "April 4, 2007"
         }
       ],
-      "checked": "2026-11-17T00:51:10.538900Z"
+      "checked": "2026-11-17T14:35:01.073257Z"
     },
     "10163-405": {
       "reg": "10163-405",
@@ -3510,7 +3510,7 @@
           "pdffile_accepted_date": "January 28, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:10.548573Z"
+      "checked": "2026-11-17T14:35:01.060732Z"
     },
     "101986-4": {
       "reg": "101986-4",
@@ -3544,7 +3544,7 @@
           "pdffile_accepted_date": "December 29, 2022"
         }
       ],
-      "checked": "2026-11-17T00:51:10.777477Z"
+      "checked": "2026-11-17T14:35:01.269477Z"
     },
     "103591-138": {
       "reg": "103591-138",
@@ -3578,7 +3578,7 @@
           "pdffile_accepted_date": "August 18, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:10.952684Z"
+      "checked": "2026-11-17T14:35:01.350374Z"
     },
     "103591-5": {
       "reg": "103591-5",
@@ -3614,7 +3614,7 @@
           "pdffile_accepted_date": "August 20, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:11.095455Z"
+      "checked": "2026-11-17T14:35:01.662739Z"
     },
     "104810-3": {
       "reg": "104810-3",
@@ -3648,7 +3648,7 @@
           "pdffile_accepted_date": "August 23, 2024"
         }
       ],
-      "checked": "2026-11-17T00:51:10.948074Z"
+      "checked": "2026-11-17T14:35:01.493430Z"
     },
     "105211-92": {
       "reg": "105211-92",
@@ -3666,9 +3666,9 @@
         }
       ],
       "aliases": [
+        "HONCHO K6 HERBICIDE",
         "RT MASTER II HERBICIDE",
-        "ROUNDUP ORIGINAL MAX HERBICIDE",
-        "HONCHO K6 HERBICIDE"
+        "ROUNDUP ORIGINAL MAX HERBICIDE"
       ],
       "transfers": [
         {
@@ -3816,7 +3816,7 @@
           "pdffile_accepted_date": "May 7, 2002"
         }
       ],
-      "checked": "2026-11-17T00:51:11.214995Z"
+      "checked": "2026-11-17T14:35:01.649665Z"
     },
     "1381-244": {
       "reg": "1381-244",
@@ -3859,7 +3859,7 @@
           "pdffile_accepted_date": "September 23, 2010"
         }
       ],
-      "checked": "2026-11-17T00:51:11.198957Z"
+      "checked": "2026-11-17T14:35:01.594679Z"
     },
     "1381-267": {
       "reg": "1381-267",
@@ -3902,7 +3902,7 @@
           "pdffile_accepted_date": "December 7, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:11.305690Z"
+      "checked": "2026-11-17T14:35:01.973959Z"
     },
     "19713-715": {
       "reg": "19713-715",
@@ -3935,7 +3935,7 @@
           "pdffile_accepted_date": "September 2, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:11.623002Z"
+      "checked": "2026-11-17T14:35:02.175531Z"
     },
     "228-720": {
       "reg": "228-720",
@@ -3980,7 +3980,7 @@
           "pdffile_accepted_date": "September 20, 2013"
         }
       ],
-      "checked": "2026-11-17T00:51:11.623698Z"
+      "checked": "2026-11-17T14:35:02.027033Z"
     },
     "228-721": {
       "reg": "228-721",
@@ -4013,7 +4013,7 @@
           "pdffile_accepted_date": "November 5, 2013"
         }
       ],
-      "checked": "2026-11-17T00:51:11.872475Z"
+      "checked": "2026-11-17T14:35:02.237727Z"
     },
     "264-1078": {
       "reg": "264-1078",
@@ -4031,11 +4031,11 @@
         }
       ],
       "aliases": [
-        "FLUOPYRAM 500 ST",
-        "VELUM 500",
-        "VELUM",
+        "VELUM PRIME",
         "VELUM ONE",
-        "VELUM PRIME"
+        "FLUOPYRAM 500 ST",
+        "VELUM",
+        "VELUM 500"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/000264-01078-20260903.pdf",
@@ -4122,7 +4122,7 @@
           "pdffile_accepted_date": "February 2, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:11.702539Z"
+      "checked": "2026-11-17T14:35:02.378313Z"
     },
     "264-1084": {
       "reg": "264-1084",
@@ -4208,7 +4208,7 @@
           "pdffile_accepted_date": "February 2, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:11.841904Z"
+      "checked": "2026-11-17T14:35:02.251101Z"
     },
     "264-1151": {
       "reg": "264-1151",
@@ -4226,9 +4226,9 @@
         }
       ],
       "aliases": [
-        "SERENADE GARDEN WETTABLE POWDER FUNGICIDE",
         "SERENADE MAX GARDEN DISEASE CONTROL",
-        "JAZZ"
+        "JAZZ",
+        "SERENADE GARDEN WETTABLE POWDER FUNGICIDE"
       ],
       "transfers": [
         {
@@ -4281,7 +4281,7 @@
           "pdffile_accepted_date": "September 9, 2004"
         }
       ],
-      "checked": "2026-11-17T00:51:11.962585Z"
+      "checked": "2026-11-17T14:35:02.531714Z"
     },
     "264-1152": {
       "reg": "264-1152",
@@ -4416,7 +4416,7 @@
           "pdffile_accepted_date": "March 18, 2004"
         }
       ],
-      "checked": "2026-11-17T00:51:11.980470Z"
+      "checked": "2026-11-17T14:35:02.662197Z"
     },
     "264-1153": {
       "reg": "264-1153",
@@ -4509,7 +4509,7 @@
           "pdffile_accepted_date": "October 14, 2004"
         }
       ],
-      "checked": "2026-11-17T00:51:12.226681Z"
+      "checked": "2026-11-17T14:35:02.659449Z"
     },
     "264-1160": {
       "reg": "264-1160",
@@ -4527,10 +4527,10 @@
         }
       ],
       "aliases": [
+        "SERENADE OPTI",
         "SERENADE OPTIVA",
         "OPTIVA",
-        "SERENADE OPTIMUM",
-        "SERENADE OPTI"
+        "SERENADE OPTIMUM"
       ],
       "transfers": [
         {
@@ -4568,7 +4568,7 @@
           "pdffile_accepted_date": "October 15, 2009"
         }
       ],
-      "checked": "2026-11-17T00:51:12.227386Z"
+      "checked": "2026-11-17T14:35:02.769240Z"
     },
     "264-825": {
       "reg": "264-825",
@@ -4586,9 +4586,9 @@
         }
       ],
       "aliases": [
-        "Acceleron D-342 Fungicide Seed Treatment",
         "REDIGO 480",
-        "PTZ 480 ST"
+        "PTZ 480 ST",
+        "Acceleron D-342 Fungicide Seed Treatment"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/000264-00825-20260430.pdf",
@@ -4695,7 +4695,7 @@
           "pdffile_accepted_date": "March 27, 2007"
         }
       ],
-      "checked": "2026-11-17T00:51:12.212146Z"
+      "checked": "2026-11-17T14:35:02.770196Z"
     },
     "2686-22": {
       "reg": "2686-22",
@@ -4732,7 +4732,7 @@
           "pdffile_accepted_date": "March 9, 2023"
         }
       ],
-      "checked": "2026-11-17T00:51:12.349012Z"
+      "checked": "2026-11-17T14:35:02.915409Z"
     },
     "2749-649": {
       "reg": "2749-649",
@@ -4763,7 +4763,7 @@
           "pdffile_accepted_date": "August 25, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:12.596389Z"
+      "checked": "2026-11-17T14:35:02.991642Z"
     },
     "2749-652": {
       "reg": "2749-652",
@@ -4798,7 +4798,7 @@
           "pdffile_accepted_date": "September 19, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:12.583305Z"
+      "checked": "2026-11-17T14:35:03.126323Z"
     },
     "2749-655": {
       "reg": "2749-655",
@@ -4829,7 +4829,7 @@
           "pdffile_accepted_date": "March 31, 2026"
         }
       ],
-      "checked": "2026-11-17T00:51:12.554574Z"
+      "checked": "2026-11-17T14:35:03.197443Z"
     },
     "279-3592": {
       "reg": "279-3592",
@@ -4847,9 +4847,9 @@
         }
       ],
       "aliases": [
+        "EQUATION SC FUNGICIDE",
         "AZAKA FUNGICIDE",
-        "EQUATION FUNGICIDE",
-        "EQUATION SC FUNGICIDE"
+        "EQUATION FUNGICIDE"
       ],
       "transfers": [
         {
@@ -4872,7 +4872,7 @@
           "pdffile_accepted_date": "April 23, 2014"
         }
       ],
-      "checked": "2026-11-17T00:51:12.866803Z"
+      "checked": "2026-11-17T14:35:03.248533Z"
     },
     "2935-560": {
       "reg": "2935-560",
@@ -4902,7 +4902,7 @@
           "pdffile_accepted_date": "November 8, 2022"
         }
       ],
-      "checked": "2026-11-17T00:51:12.918040Z"
+      "checked": "2026-11-17T14:35:03.340637Z"
     },
     "33270-32": {
       "reg": "33270-32",
@@ -4947,7 +4947,7 @@
           "pdffile_accepted_date": "January 22, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:12.971503Z"
+      "checked": "2026-11-17T14:35:03.500873Z"
     },
     "34704-1068": {
       "reg": "34704-1068",
@@ -5015,7 +5015,7 @@
           "pdffile_accepted_date": "December 6, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:13.217350Z"
+      "checked": "2026-11-17T14:35:03.482820Z"
     },
     "34704-1141": {
       "reg": "34704-1141",
@@ -5033,8 +5033,8 @@
         }
       ],
       "aliases": [
-        "LPI Thio-M Ag 70 WSP",
-        "TESORO 70 WSP"
+        "TESORO 70 WSP",
+        "LPI Thio-M Ag 70 WSP"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/034704-01141-20240517.pdf",
@@ -5056,7 +5056,7 @@
           "pdffile_accepted_date": "May 8, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:13.147360Z"
+      "checked": "2026-11-17T14:35:03.504521Z"
     },
     "34704-1163": {
       "reg": "34704-1163",
@@ -5087,7 +5087,7 @@
           "pdffile_accepted_date": "July 21, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:13.233369Z"
+      "checked": "2026-11-17T14:35:03.793493Z"
     },
     "34704-924": {
       "reg": "34704-924",
@@ -5152,7 +5152,7 @@
           "pdffile_accepted_date": "April 25, 2006"
         }
       ],
-      "checked": "2026-11-17T00:51:13.386538Z"
+      "checked": "2026-11-17T14:35:03.857943Z"
     },
     "352-834": {
       "reg": "352-834",
@@ -5228,7 +5228,7 @@
           "pdffile_accepted_date": "February 29, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:13.557495Z"
+      "checked": "2026-11-17T14:35:03.749020Z"
     },
     "352-836": {
       "reg": "352-836",
@@ -5284,7 +5284,7 @@
           "pdffile_accepted_date": "February 29, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:13.467043Z"
+      "checked": "2026-11-17T14:35:03.942977Z"
     },
     "352-840": {
       "reg": "352-840",
@@ -5339,7 +5339,7 @@
           "pdffile_accepted_date": "November 30, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:13.473252Z"
+      "checked": "2026-11-17T14:35:03.986208Z"
     },
     "352-942": {
       "reg": "352-942",
@@ -5375,7 +5375,7 @@
           "pdffile_accepted_date": "December 22, 2022"
         }
       ],
-      "checked": "2026-11-17T00:51:13.608670Z"
+      "checked": "2026-11-17T14:35:03.989391Z"
     },
     "42750-261": {
       "reg": "42750-261",
@@ -5442,7 +5442,7 @@
           "pdffile_accepted_date": "July 2, 2014"
         }
       ],
-      "checked": "2026-11-17T00:51:13.835779Z"
+      "checked": "2026-11-17T14:35:04.130550Z"
     },
     "42750-289": {
       "reg": "42750-289",
@@ -5466,8 +5466,8 @@
         }
       ],
       "aliases": [
-        "MI-CROP TM FUNGICIDE",
-        "COVER XL"
+        "COVER XL",
+        "MI-CROP TM FUNGICIDE"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/042750-00289-20240517.pdf",
@@ -5489,7 +5489,7 @@
           "pdffile_accepted_date": "June 12, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:13.721094Z"
+      "checked": "2026-11-17T14:35:04.159551Z"
     },
     "44956-6": {
       "reg": "44956-6",
@@ -5529,7 +5529,7 @@
           "pdffile_accepted_date": "March 26, 2021"
         }
       ],
-      "checked": "2026-11-17T00:51:14.034591Z"
+      "checked": "2026-11-17T14:35:04.441309Z"
     },
     "45002-24": {
       "reg": "45002-24",
@@ -5578,7 +5578,7 @@
           "pdffile_accepted_date": "August 3, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:13.889919Z"
+      "checked": "2026-11-17T14:35:04.230684Z"
     },
     "45002-56": {
       "reg": "45002-56",
@@ -5609,7 +5609,7 @@
           "pdffile_accepted_date": "December 21, 2022"
         }
       ],
-      "checked": "2026-11-17T00:51:14.105126Z"
+      "checked": "2026-11-17T14:35:04.517354Z"
     },
     "51517-11": {
       "reg": "51517-11",
@@ -5666,7 +5666,7 @@
           "pdffile_accepted_date": "February 25, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:14.091851Z"
+      "checked": "2026-11-17T14:35:04.371634Z"
     },
     "52287-25": {
       "reg": "52287-25",
@@ -5684,11 +5684,11 @@
         }
       ],
       "aliases": [
-        "HARRELL'S PROTECTMAX(R) TITLE PHYTE SYSTEMIC FUNGICIDE",
-        "HARRELL'S PROTECTMAX PHOSPHITE FUNGICIDE",
         "TITLE PHYTE SYSTEMIC FUNGICIDE",
         "TITLE PHYTE FUNGICIDE",
-        "TITLE PHYTE"
+        "TITLE PHYTE",
+        "HARRELL'S PROTECTMAX(R) TITLE PHYTE SYSTEMIC FUNGICIDE",
+        "HARRELL'S PROTECTMAX PHOSPHITE FUNGICIDE"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/052287-00025-20220307.pdf",
@@ -5710,7 +5710,7 @@
           "pdffile_accepted_date": "December 18, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:14.176992Z"
+      "checked": "2026-11-17T14:35:04.716904Z"
     },
     "58866-12": {
       "reg": "58866-12",
@@ -5753,7 +5753,7 @@
           "pdffile_accepted_date": "January 21, 1999"
         }
       ],
-      "checked": "2026-11-17T00:51:14.306943Z"
+      "checked": "2026-11-17T14:35:04.689936Z"
     },
     "59639-147": {
       "reg": "59639-147",
@@ -5853,7 +5853,7 @@
           "pdffile_accepted_date": "May 6, 2008"
         }
       ],
-      "checked": "2026-11-17T00:51:14.332801Z"
+      "checked": "2026-11-17T14:35:04.698722Z"
     },
     "59639-198": {
       "reg": "59639-198",
@@ -5908,7 +5908,7 @@
           "pdffile_accepted_date": "September 30, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:14.351415Z"
+      "checked": "2026-11-17T14:35:04.757533Z"
     },
     "59639-227": {
       "reg": "59639-227",
@@ -5946,7 +5946,7 @@
           "pdffile_accepted_date": "March 7, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:14.513719Z"
+      "checked": "2026-11-17T14:35:04.921585Z"
     },
     "60063-12": {
       "reg": "60063-12",
@@ -6039,7 +6039,7 @@
           "pdffile_accepted_date": "April 14, 2005"
         }
       ],
-      "checked": "2026-11-17T00:51:14.544202Z"
+      "checked": "2026-11-17T14:35:04.953892Z"
     },
     "60063-59": {
       "reg": "60063-59",
@@ -6057,8 +6057,8 @@
         }
       ],
       "aliases": [
-        "ENDOW 2SC",
-        "ARIUS 250"
+        "ARIUS 250",
+        "ENDOW 2SC"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/060063-00059-20210701.pdf",
@@ -6105,7 +6105,7 @@
           "pdffile_accepted_date": "November 4, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:14.810079Z"
+      "checked": "2026-11-17T14:35:05.228359Z"
     },
     "60063-80": {
       "reg": "60063-80",
@@ -6152,7 +6152,7 @@
           "pdffile_accepted_date": "August 23, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:14.607017Z"
+      "checked": "2026-11-17T14:35:05.012690Z"
     },
     "60063-81": {
       "reg": "60063-81",
@@ -6203,7 +6203,7 @@
           "pdffile_accepted_date": "September 27, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:14.757941Z"
+      "checked": "2026-11-17T14:35:05.133916Z"
     },
     "60063-83": {
       "reg": "60063-83",
@@ -6227,8 +6227,8 @@
         }
       ],
       "aliases": [
-        "BRIXFEN FUNGICIDE",
-        "BRIXEN "
+        "BRIXEN ",
+        "BRIXFEN FUNGICIDE"
       ],
       "transfers": [
         {
@@ -6271,7 +6271,7 @@
           "pdffile_accepted_date": "December 22, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:14.785031Z"
+      "checked": "2026-11-17T14:35:05.187245Z"
     },
     "60063-86": {
       "reg": "60063-86",
@@ -6307,7 +6307,7 @@
           "pdffile_accepted_date": "April 30, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:14.863943Z"
+      "checked": "2026-11-17T14:35:05.238487Z"
     },
     "60063-93": {
       "reg": "60063-93",
@@ -6350,7 +6350,7 @@
           "pdffile_accepted_date": "August 27, 2024"
         }
       ],
-      "checked": "2026-11-17T00:51:15.029152Z"
+      "checked": "2026-11-17T14:35:05.460604Z"
     },
     "61842-16": {
       "reg": "61842-16",
@@ -6414,7 +6414,7 @@
           "pdffile_accepted_date": "May 13, 1999"
         }
       ],
-      "checked": "2026-11-17T00:51:15.160811Z"
+      "checked": "2026-11-17T14:35:05.536193Z"
     },
     "61842-18": {
       "reg": "61842-18",
@@ -6493,7 +6493,7 @@
           "pdffile_accepted_date": "October 7, 1999"
         }
       ],
-      "checked": "2026-11-17T00:51:15.073059Z"
+      "checked": "2026-11-17T14:35:05.468675Z"
     },
     "62719-754": {
       "reg": "62719-754",
@@ -6526,7 +6526,7 @@
           "pdffile_accepted_date": "May 29, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:15.130670Z"
+      "checked": "2026-11-17T14:35:05.463222Z"
     },
     "62719-788": {
       "reg": "62719-788",
@@ -6559,7 +6559,7 @@
           "pdffile_accepted_date": "April 24, 2026"
         }
       ],
-      "checked": "2026-11-17T00:51:15.277932Z"
+      "checked": "2026-11-17T14:35:05.664017Z"
     },
     "64137-13": {
       "reg": "64137-13",
@@ -6609,7 +6609,7 @@
           "pdffile_accepted_date": "September 8, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:15.322977Z"
+      "checked": "2026-11-17T14:35:05.715532Z"
     },
     "66222-145": {
       "reg": "66222-145",
@@ -6627,9 +6627,9 @@
         }
       ],
       "aliases": [
-        "THIOPHANATE METHYL 85 WDG",
+        "QUALI-PRO TM 85 WDG",
         "INCOGNITO 85 WDG",
-        "QUALI-PRO TM 85 WDG"
+        "THIOPHANATE METHYL 85 WDG"
       ],
       "transfers": [
         {
@@ -6702,7 +6702,7 @@
           "pdffile_accepted_date": "November 14, 2001"
         }
       ],
-      "checked": "2026-11-17T00:51:15.566581Z"
+      "checked": "2026-11-17T14:35:05.709537Z"
     },
     "66222-307": {
       "reg": "66222-307",
@@ -6738,7 +6738,7 @@
           "pdffile_accepted_date": "August 7, 2024"
         }
       ],
-      "checked": "2026-11-17T00:51:15.415146Z"
+      "checked": "2026-11-17T14:35:05.760454Z"
     },
     "67690-109": {
       "reg": "67690-109",
@@ -6766,7 +6766,7 @@
           "pdffile_accepted_date": "March 27, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:15.674325Z"
+      "checked": "2026-11-17T14:35:06.017887Z"
     },
     "67702-2": {
       "reg": "67702-2",
@@ -6784,9 +6784,9 @@
         }
       ],
       "aliases": [
-        "CUEVA FUNGICIDE CONCENTRATE ",
         "PLANT FUNGICIDE CONCENTRATE",
-        "NEUDORFF CUEVA FUNGICIDE CONCENTRATE"
+        "NEUDORFF CUEVA FUNGICIDE CONCENTRATE",
+        "CUEVA FUNGICIDE CONCENTRATE "
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/067702-00002-20210708.pdf",
@@ -6883,7 +6883,7 @@
           "pdffile_accepted_date": "June 29, 1997"
         }
       ],
-      "checked": "2026-11-17T00:51:15.619211Z"
+      "checked": "2026-11-17T14:35:06.058174Z"
     },
     "67702-22": {
       "reg": "67702-22",
@@ -6961,7 +6961,7 @@
           "pdffile_accepted_date": "May 6, 2005"
         }
       ],
-      "checked": "2026-11-17T00:51:15.764030Z"
+      "checked": "2026-11-17T14:35:05.935893Z"
     },
     "68573-2": {
       "reg": "68573-2",
@@ -6981,8 +6981,8 @@
       "aliases": [
         "POTATOGARD",
         "POTATO GARD",
-        "POTATOGUARD",
-        "POTATO GUARD"
+        "POTATO GUARD",
+        "POTATOGUARD"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/068573-00002-20240730.pdf",
@@ -7084,7 +7084,7 @@
           "pdffile_accepted_date": "October 27, 2000"
         }
       ],
-      "checked": "2026-11-17T00:51:16.097165Z"
+      "checked": "2026-11-17T14:35:06.192812Z"
     },
     "70051-107": {
       "reg": "70051-107",
@@ -7102,20 +7102,20 @@
         }
       ],
       "aliases": [
-        "DOUBLE NICKEL LC",
-        "DOUBLE TAP 55",
-        "AMYLO-X AS",
+        "VALCURE LC",
         "BACILO-X LC",
         "BACILO-X",
-        "VALCURE LC",
-        "Amylo-X® LC",
-        "Amylo-X® AS",
-        "Convergence¿",
+        "AMYLO-X LC",
         "AMYLO-X SC",
         "AMYLO-X® SL",
         "AMYLO-X 98.85 SC",
         "AMYLO-X 101.8 SC",
-        "AMYLO-X LC"
+        "DOUBLE TAP 55",
+        "AMYLO-X AS",
+        "DOUBLE NICKEL LC",
+        "Amylo-X® LC",
+        "Amylo-X® AS",
+        "Convergence¿"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/070051-00107-20250424.pdf",
@@ -7207,7 +7207,7 @@
           "pdffile_accepted_date": "December 16, 2011"
         }
       ],
-      "checked": "2026-11-17T00:51:16.027490Z"
+      "checked": "2026-11-17T14:35:06.323643Z"
     },
     "70051-2": {
       "reg": "70051-2",
@@ -7228,10 +7228,10 @@
         "TRILOGY PHC",
         "TRIACT 70 EC",
         "TRILOGY",
+        "NIMBUZ",
         "TRILOGY 64 EC",
         "TRILOGY 70 EC",
         "TRIACT 64L",
-        "NIMBUZ",
         "NEEMGARD"
       ],
       "transfers": [],
@@ -7399,7 +7399,7 @@
           "pdffile_accepted_date": "June 2, 1997"
         }
       ],
-      "checked": "2026-11-17T00:51:16.094757Z"
+      "checked": "2026-11-17T14:35:06.402129Z"
     },
     "70299-28": {
       "reg": "70299-28",
@@ -7461,7 +7461,7 @@
           "pdffile_accepted_date": "December 28, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:16.140147Z"
+      "checked": "2026-11-17T14:35:06.451932Z"
     },
     "70506-243": {
       "reg": "70506-243",
@@ -7511,7 +7511,7 @@
           "pdffile_accepted_date": "November 4, 2011"
         }
       ],
-      "checked": "2026-11-17T00:51:16.297708Z"
+      "checked": "2026-11-17T14:35:06.413072Z"
     },
     "70506-351": {
       "reg": "70506-351",
@@ -7549,7 +7549,7 @@
           "pdffile_accepted_date": "October 1, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:16.566803Z"
+      "checked": "2026-11-17T14:35:06.805343Z"
     },
     "70506-438": {
       "reg": "70506-438",
@@ -7604,7 +7604,7 @@
           "pdffile_accepted_date": "May 5, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:16.366778Z"
+      "checked": "2026-11-17T14:35:06.640876Z"
     },
     "70506-440": {
       "reg": "70506-440",
@@ -7648,7 +7648,7 @@
           "pdffile_accepted_date": "January 31, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:16.402515Z"
+      "checked": "2026-11-17T14:35:06.661034Z"
     },
     "70506-442": {
       "reg": "70506-442",
@@ -7695,7 +7695,7 @@
           "pdffile_accepted_date": "January 16, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:16.545984Z"
+      "checked": "2026-11-17T14:35:06.661807Z"
     },
     "70506-443": {
       "reg": "70506-443",
@@ -7740,7 +7740,7 @@
           "pdffile_accepted_date": "January 21, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:16.615736Z"
+      "checked": "2026-11-17T14:35:06.851549Z"
     },
     "70506-444": {
       "reg": "70506-444",
@@ -7790,7 +7790,7 @@
           "pdffile_accepted_date": "November 13, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:16.659241Z"
+      "checked": "2026-11-17T14:35:06.909151Z"
     },
     "70506-508": {
       "reg": "70506-508",
@@ -7842,7 +7842,7 @@
           "pdffile_accepted_date": "January 31, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:16.885913Z"
+      "checked": "2026-11-17T14:35:06.916394Z"
     },
     "70506-608": {
       "reg": "70506-608",
@@ -7901,7 +7901,7 @@
           "pdffile_accepted_date": "February 15, 2010"
         }
       ],
-      "checked": "2026-11-17T00:51:17.941798Z"
+      "checked": "2026-11-17T14:35:07.096741Z"
     },
     "71512-22": {
       "reg": "71512-22",
@@ -7957,7 +7957,7 @@
           "pdffile_accepted_date": "July 21, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:16.899324Z"
+      "checked": "2026-11-17T14:35:07.080370Z"
     },
     "71532-35": {
       "reg": "71532-35",
@@ -8000,7 +8000,7 @@
           "pdffile_accepted_date": "October 1, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:16.934673Z"
+      "checked": "2026-11-17T14:35:07.304942Z"
     },
     "71771-14": {
       "reg": "71771-14",
@@ -8018,12 +8018,12 @@
         }
       ],
       "aliases": [
-        "XXXXX",
         "SAORI ST",
         "SAORI HB",
         "PREDEFENDER",
         "SAORI",
-        "OBRONA"
+        "OBRONA",
+        "XXXXX"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/071771-00014-20260324.pdf",
@@ -8055,7 +8055,7 @@
           "pdffile_accepted_date": "February 24, 2023"
         }
       ],
-      "checked": "2026-11-17T00:51:17.143333Z"
+      "checked": "2026-11-17T14:35:07.144017Z"
     },
     "71840-18": {
       "reg": "71840-18",
@@ -8115,7 +8115,7 @@
           "pdffile_accepted_date": "December 19, 2014"
         }
       ],
-      "checked": "2026-11-17T00:51:17.253940Z"
+      "checked": "2026-11-17T14:35:07.457623Z"
     },
     "71962-1": {
       "reg": "71962-1",
@@ -8210,7 +8210,7 @@
           "pdffile_accepted_date": "February 5, 2002"
         }
       ],
-      "checked": "2026-11-17T00:51:17.415066Z"
+      "checked": "2026-11-17T14:35:07.572941Z"
     },
     "71962-2": {
       "reg": "71962-2",
@@ -8253,7 +8253,7 @@
           "pdffile_accepted_date": "February 10, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:17.413184Z"
+      "checked": "2026-11-17T14:35:07.378124Z"
     },
     "72431-1": {
       "reg": "72431-1",
@@ -8323,7 +8323,7 @@
           "pdffile_accepted_date": "March 23, 2004"
         }
       ],
-      "checked": "2026-11-17T00:51:17.557609Z"
+      "checked": "2026-11-17T14:35:07.716909Z"
     },
     "72662-10": {
       "reg": "72662-10",
@@ -8372,7 +8372,7 @@
           "pdffile_accepted_date": "February 5, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:17.776408Z"
+      "checked": "2026-11-17T14:35:07.752961Z"
     },
     "72662-11": {
       "reg": "72662-11",
@@ -8422,7 +8422,7 @@
           "pdffile_accepted_date": "July 30, 2021"
         }
       ],
-      "checked": "2026-11-17T00:51:17.792292Z"
+      "checked": "2026-11-17T14:35:07.816789Z"
     },
     "72662-12": {
       "reg": "72662-12",
@@ -8461,7 +8461,7 @@
           "pdffile_accepted_date": "September 29, 1995"
         }
       ],
-      "checked": "2026-11-17T00:51:17.855033Z"
+      "checked": "2026-11-17T14:35:07.902588Z"
     },
     "72662-15": {
       "reg": "72662-15",
@@ -8512,7 +8512,7 @@
           "pdffile_accepted_date": "March 21, 2014"
         }
       ],
-      "checked": "2026-11-17T00:51:18.185515Z"
+      "checked": "2026-11-17T14:35:08.088076Z"
     },
     "72662-17": {
       "reg": "72662-17",
@@ -8558,7 +8558,7 @@
           "pdffile_accepted_date": "February 27, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:18.296535Z"
+      "checked": "2026-11-17T14:35:08.079480Z"
     },
     "72662-19": {
       "reg": "72662-19",
@@ -8600,7 +8600,7 @@
           "pdffile_accepted_date": "February 16, 2021"
         }
       ],
-      "checked": "2026-11-17T00:51:18.257198Z"
+      "checked": "2026-11-17T14:35:08.247359Z"
     },
     "73049-522": {
       "reg": "73049-522",
@@ -8618,13 +8618,13 @@
         }
       ],
       "aliases": [
+        "MAGIC GARDENER BIOFUNGICIDE",
         "MAGIC GARDENER BIOLOGICAL DISEASE CONTROL",
         "MAGIC GARDENER DISEASE CONTROL",
         "AMYLOSHIELD",
         "FOLIFENCE",
-        "MAGIC GARDENER BIOFUNGICIDE",
-        "AMYLOSHIELD BIOLOGICAL FUNGICIDE",
-        "ZORDA BIOLOGICAL FUNGICIDE/ BACTERICIDE"
+        "ZORDA BIOLOGICAL FUNGICIDE/ BACTERICIDE",
+        "AMYLOSHIELD BIOLOGICAL FUNGICIDE"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/073049-00522-20250519.pdf",
@@ -8656,7 +8656,7 @@
           "pdffile_accepted_date": "December 17, 2021"
         }
       ],
-      "checked": "2026-11-17T00:51:18.403785Z"
+      "checked": "2026-11-17T14:35:08.219820Z"
     },
     "73049-557": {
       "reg": "73049-557",
@@ -8766,7 +8766,7 @@
           "pdffile_accepted_date": "January 14, 2011"
         }
       ],
-      "checked": "2026-11-17T00:51:18.404275Z"
+      "checked": "2026-11-17T14:35:08.321771Z"
     },
     "73049-558": {
       "reg": "73049-558",
@@ -8831,7 +8831,7 @@
           "pdffile_accepted_date": "March 3, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:18.521877Z"
+      "checked": "2026-11-17T14:35:08.292279Z"
     },
     "73049-559": {
       "reg": "73049-559",
@@ -8921,7 +8921,7 @@
           "pdffile_accepted_date": "January 21, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:18.607802Z"
+      "checked": "2026-11-17T14:35:08.556356Z"
     },
     "73049-560": {
       "reg": "73049-560",
@@ -8995,7 +8995,7 @@
           "pdffile_accepted_date": "October 19, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:18.708885Z"
+      "checked": "2026-11-17T14:35:08.619078Z"
     },
     "73314-20": {
       "reg": "73314-20",
@@ -9013,19 +9013,19 @@
         }
       ],
       "aliases": [
+        "ACTINOVATE SP",
+        "KNOT SHOT",
+        "QUELL",
+        "ACTINOX",
+        "ACTINOSTAR",
+        "NVELOP",
         "ACTINOGROW T & O",
         "ACTINOGROW",
         "ACTINOVATE FOR LAWN & GARDEN",
         "ACTINOGRO TURF",
         "ACTINOGRO",
-        "KNOT SHOT",
-        "QUELL",
-        "ACTINOX",
-        "ACTINOSTAR",
-        "ACTINOVATE SP",
         "ACTINOVATE AG",
-        "ACTINOVATE LAWN & GARDEN",
-        "NVELOP"
+        "ACTINOVATE LAWN & GARDEN"
       ],
       "transfers": [
         {
@@ -9138,7 +9138,7 @@
           "pdffile_accepted_date": "May 24, 2004"
         }
       ],
-      "checked": "2026-11-17T00:51:18.784555Z"
+      "checked": "2026-11-17T14:35:08.652000Z"
     },
     "73771-11": {
       "reg": "73771-11",
@@ -9182,7 +9182,7 @@
           "pdffile_accepted_date": "January 26, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:19.002797Z"
+      "checked": "2026-11-17T14:35:08.830035Z"
     },
     "73771-5": {
       "reg": "73771-5",
@@ -9200,10 +9200,10 @@
         }
       ],
       "aliases": [
-        "FRESH-PHITE",
-        "FUNGI-PHITE T&O ",
+        "FUNGI-PHITE CEREALS",
         "FUNGI-PHITE PH ",
-        "FUNGI-PHITE CEREALS"
+        "FRESH-PHITE",
+        "FUNGI-PHITE T&O "
       ],
       "transfers": [
         {
@@ -9321,7 +9321,7 @@
           "pdffile_accepted_date": "October 21, 2005"
         }
       ],
-      "checked": "2026-11-17T00:51:19.220581Z"
+      "checked": "2026-11-17T14:35:09.280146Z"
     },
     "73806-1": {
       "reg": "73806-1",
@@ -9340,18 +9340,18 @@
       ],
       "aliases": [
         "HALCYON SYSTEMIC FUNGICIDE BACTERICIDE",
-        "K-PHITE 7LP SYSTEMIC FUNGICIDE BACTERICIDE",
+        "K-PHITE 7LP FUNGICIDE",
+        "KPHITE GRORX SYSTEMIC FUNGICIDE BACTERICIDE",
+        "KPHITE PDQ SYSTEMIC FUNGICIDE BACTERICIDE",
+        "KPHITE HLB SYSTEMIC FUNGICIDE BACTERICIDE",
+        "KPHITE RX",
         "KPHITE Systemic Fungicide Bactericide",
         "SAVER Systemic Fungicide Bactericide",
         "DOUBLE EAGLE Systemic Fungicide Bactericide",
         "BIRDIE Systemic Fungicide Bactericide",
         "AG-FIGHT Systemic Fungicide Bactericide",
-        "K-PHITE 7LP FUNGICIDE",
-        "KPHITE RX",
-        "KPHITE GRORX SYSTEMIC FUNGICIDE BACTERICIDE",
-        "KPHITE PDQ SYSTEMIC FUNGICIDE BACTERICIDE",
-        "KPHITE HLB SYSTEMIC FUNGICIDE BACTERICIDE",
-        "AGRISHIELD SPD"
+        "AGRISHIELD SPD",
+        "K-PHITE 7LP SYSTEMIC FUNGICIDE BACTERICIDE"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/073806-00001-20250130.pdf",
@@ -9418,7 +9418,7 @@
           "pdffile_accepted_date": "July 26, 2007"
         }
       ],
-      "checked": "2026-11-17T00:51:19.019433Z"
+      "checked": "2026-11-17T14:35:09.040427Z"
     },
     "73806-2": {
       "reg": "73806-2",
@@ -9442,8 +9442,8 @@
         }
       ],
       "aliases": [
-        "DUAL PHOS",
-        "BIOPHOS FUNGICIDE"
+        "BIOPHOS FUNGICIDE",
+        "DUAL PHOS"
       ],
       "transfers": [
         {
@@ -9496,7 +9496,7 @@
           "pdffile_accepted_date": "September 16, 2002"
         }
       ],
-      "checked": "2026-11-17T00:51:19.129578Z"
+      "checked": "2026-11-17T14:35:09.046410Z"
     },
     "73806-3": {
       "reg": "73806-3",
@@ -9520,15 +9520,15 @@
         }
       ],
       "aliases": [
+        "RENEW PLUS SYSTEMIC FUNGICIDE BACTERICIDE",
+        "HLB Bullet Systemic Fungicide Bactericide",
+        "Bullet HLB Systemic Fungicide Bactericide",
+        "Renew HLB Systemic Fungicide Bactericide",
         "RENEW SYSTEMIC FUNGICIDE BACTERICIDE",
         "BULLET SYSTEMIC FUNGICIDE BACTERICIDE",
         "PHLOEM PLUS SYSTEMIC FUNGICIDE BACTERICIDE",
         "SILVER BULLET SYSTEMIC FUNGICIDE BACTERICIDE",
-        "XYLEM PK SYSTEMIC FUNGICIDE BACTERICIDE",
-        "RENEW PLUS SYSTEMIC FUNGICIDE BACTERICIDE",
-        "HLB Bullet Systemic Fungicide Bactericide",
-        "Bullet HLB Systemic Fungicide Bactericide",
-        "Renew HLB Systemic Fungicide Bactericide"
+        "XYLEM PK SYSTEMIC FUNGICIDE BACTERICIDE"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/073806-00003-20230330.pdf",
@@ -9555,7 +9555,7 @@
           "pdffile_accepted_date": "March 2, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:19.567143Z"
+      "checked": "2026-11-17T14:35:09.164168Z"
     },
     "73806-5": {
       "reg": "73806-5",
@@ -9585,7 +9585,7 @@
           "pdffile_accepted_date": "February 27, 2023"
         }
       ],
-      "checked": "2026-11-17T00:51:19.520019Z"
+      "checked": "2026-11-17T14:35:09.412098Z"
     },
     "75747-3": {
       "reg": "75747-3",
@@ -9618,7 +9618,7 @@
           "pdffile_accepted_date": "January 12, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:19.432346Z"
+      "checked": "2026-11-17T14:35:09.320306Z"
     },
     "75747-5": {
       "reg": "75747-5",
@@ -9648,7 +9648,7 @@
           "pdffile_accepted_date": "January 16, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:19.645194Z"
+      "checked": "2026-11-17T14:35:09.434639Z"
     },
     "7969-186": {
       "reg": "7969-186",
@@ -9831,7 +9831,7 @@
           "pdffile_accepted_date": "September 30, 2002"
         }
       ],
-      "checked": "2026-11-17T00:51:19.703059Z"
+      "checked": "2026-11-17T14:35:09.526715Z"
     },
     "7969-197": {
       "reg": "7969-197",
@@ -9949,7 +9949,7 @@
           "pdffile_accepted_date": "July 23, 2003"
         }
       ],
-      "checked": "2026-11-17T00:51:19.880259Z"
+      "checked": "2026-11-17T14:35:09.566077Z"
     },
     "7969-289": {
       "reg": "7969-289",
@@ -10027,7 +10027,7 @@
           "pdffile_accepted_date": "May 8, 2009"
         }
       ],
-      "checked": "2026-11-17T00:51:19.966843Z"
+      "checked": "2026-11-17T14:35:09.756128Z"
     },
     "7969-309": {
       "reg": "7969-309",
@@ -10117,7 +10117,7 @@
           "pdffile_accepted_date": "May 2, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:19.899105Z"
+      "checked": "2026-11-17T14:35:09.654975Z"
     },
     "7969-310": {
       "reg": "7969-310",
@@ -10211,7 +10211,7 @@
           "pdffile_accepted_date": "May 2, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:19.961192Z"
+      "checked": "2026-11-17T14:35:09.901533Z"
     },
     "7969-311": {
       "reg": "7969-311",
@@ -10310,7 +10310,7 @@
           "pdffile_accepted_date": "May 2, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:20.266111Z"
+      "checked": "2026-11-17T14:35:09.854447Z"
     },
     "7969-406": {
       "reg": "7969-406",
@@ -10365,7 +10365,7 @@
           "pdffile_accepted_date": "June 26, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:20.133006Z"
+      "checked": "2026-11-17T14:35:09.917110Z"
     },
     "7969-408": {
       "reg": "7969-408",
@@ -10403,7 +10403,7 @@
           "pdffile_accepted_date": "June 26, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:20.284524Z"
+      "checked": "2026-11-17T14:35:10.020218Z"
     },
     "7969-409": {
       "reg": "7969-409",
@@ -10452,7 +10452,7 @@
           "pdffile_accepted_date": "June 26, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:20.214759Z"
+      "checked": "2026-11-17T14:35:10.076161Z"
     },
     "7969-411": {
       "reg": "7969-411",
@@ -10495,7 +10495,7 @@
           "pdffile_accepted_date": "June 26, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:20.424779Z"
+      "checked": "2026-11-17T14:35:10.165391Z"
     },
     "7969-486": {
       "reg": "7969-486",
@@ -10531,7 +10531,7 @@
           "pdffile_accepted_date": "October 3, 2023"
         }
       ],
-      "checked": "2026-11-17T00:51:20.561363Z"
+      "checked": "2026-11-17T14:35:10.254459Z"
     },
     "7969-508": {
       "reg": "7969-508",
@@ -10568,7 +10568,7 @@
           "pdffile_accepted_date": "March 31, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:20.529900Z"
+      "checked": "2026-11-17T14:35:10.257786Z"
     },
     "8033-122": {
       "reg": "8033-122",
@@ -10586,8 +10586,8 @@
         }
       ],
       "aliases": [
-        "FANATE 4.5F TURF AND ORNAMENTAL FUNGICIDE",
-        "TOPSIN 4.5 FL TURF & ORNAMENTLA FUNGICIDE"
+        "TOPSIN 4.5 FL TURF & ORNAMENTLA FUNGICIDE",
+        "FANATE 4.5F TURF AND ORNAMENTAL FUNGICIDE"
       ],
       "transfers": [
         {
@@ -10755,7 +10755,7 @@
           "pdffile_accepted_date": "November 3, 1983"
         }
       ],
-      "checked": "2026-11-17T00:51:20.579076Z"
+      "checked": "2026-11-17T14:35:10.597768Z"
     },
     "8033-124": {
       "reg": "8033-124",
@@ -10849,7 +10849,7 @@
           "pdffile_accepted_date": "March 22, 1990"
         }
       ],
-      "checked": "2026-11-17T00:51:20.697690Z"
+      "checked": "2026-11-17T14:35:10.415277Z"
     },
     "8033-125": {
       "reg": "8033-125",
@@ -11038,7 +11038,7 @@
           "pdffile_accepted_date": "December 22, 1993"
         }
       ],
-      "checked": "2026-11-17T00:51:20.771164Z"
+      "checked": "2026-11-17T14:35:10.508334Z"
     },
     "8033-126": {
       "reg": "8033-126",
@@ -11092,7 +11092,7 @@
           "pdffile_accepted_date": "June 7, 2005"
         }
       ],
-      "checked": "2026-11-17T00:51:20.932439Z"
+      "checked": "2026-11-17T14:35:10.523077Z"
     },
     "81606-1": {
       "reg": "81606-1",
@@ -11140,7 +11140,7 @@
           "pdffile_accepted_date": "May 8, 2007"
         }
       ],
-      "checked": "2026-11-17T00:51:20.889028Z"
+      "checked": "2026-11-17T14:35:10.674716Z"
     },
     "82940-1": {
       "reg": "82940-1",
@@ -11216,7 +11216,7 @@
           "pdffile_accepted_date": "June 13, 2006"
         }
       ],
-      "checked": "2026-11-17T00:51:21.138216Z"
+      "checked": "2026-11-17T14:35:10.938422Z"
     },
     "83070-14": {
       "reg": "83070-14",
@@ -11262,7 +11262,7 @@
           "pdffile_accepted_date": "February 29, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:21.098504Z"
+      "checked": "2026-11-17T14:35:10.777660Z"
     },
     "83100-82": {
       "reg": "83100-82",
@@ -11292,7 +11292,7 @@
           "pdffile_accepted_date": "November 19, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:21.177508Z"
+      "checked": "2026-11-17T14:35:10.811367Z"
     },
     "83529-124": {
       "reg": "83529-124",
@@ -11327,7 +11327,7 @@
           "pdffile_accepted_date": "March 17, 2022"
         }
       ],
-      "checked": "2026-11-17T00:51:21.263563Z"
+      "checked": "2026-11-17T14:35:10.912206Z"
     },
     "83529-161": {
       "reg": "83529-161",
@@ -11363,7 +11363,7 @@
           "pdffile_accepted_date": "January 20, 2022"
         }
       ],
-      "checked": "2026-11-17T00:51:21.337454Z"
+      "checked": "2026-11-17T14:35:11.005211Z"
     },
     "83529-284": {
       "reg": "83529-284",
@@ -11408,7 +11408,7 @@
           "pdffile_accepted_date": "August 30, 2023"
         }
       ],
-      "checked": "2026-11-17T00:51:21.393824Z"
+      "checked": "2026-11-17T14:35:11.039695Z"
     },
     "83529-368": {
       "reg": "83529-368",
@@ -11438,7 +11438,7 @@
           "pdffile_accepted_date": "February 28, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:21.447066Z"
+      "checked": "2026-11-17T14:35:11.121362Z"
     },
     "83529-64": {
       "reg": "83529-64",
@@ -11456,8 +11456,8 @@
         }
       ],
       "aliases": [
-        "AZOX II T&O",
         "TAZO",
+        "AZOX II T&O",
         "SHARDA AZOXYSTROBIN 2SC"
       ],
       "transfers": [],
@@ -11485,7 +11485,7 @@
           "pdffile_accepted_date": "February 17, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:21.807888Z"
+      "checked": "2026-11-17T14:35:11.363754Z"
     },
     "83772-12": {
       "reg": "83772-12",
@@ -11520,7 +11520,7 @@
           "pdffile_accepted_date": "April 11, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:21.801276Z"
+      "checked": "2026-11-17T14:35:11.429201Z"
     },
     "84059-22": {
       "reg": "84059-22",
@@ -11554,7 +11554,7 @@
           "pdffile_accepted_date": "December 20, 2013"
         }
       ],
-      "checked": "2026-11-17T00:51:21.657956Z"
+      "checked": "2026-11-17T14:35:11.399871Z"
     },
     "84059-28": {
       "reg": "84059-28",
@@ -11572,16 +11572,16 @@
         }
       ],
       "aliases": [
-        "AMPLITUDE BIOFUNGICIDE",
-        "MBI-110 EP BIOFUNGICIDE",
-        "STARGUS CG BIOFUNGICIDE",
-        "STARGUS BIOFUNGICIDE",
+        "STARGUS ST",
+        "AMPLITUDE ST",
         "MBI-110 ST",
         "AMPLITUDE",
         "STARGUS CG",
         "STARGUS",
-        "STARGUS ST",
-        "AMPLITUDE ST"
+        "AMPLITUDE BIOFUNGICIDE",
+        "MBI-110 EP BIOFUNGICIDE",
+        "STARGUS CG BIOFUNGICIDE",
+        "STARGUS BIOFUNGICIDE"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/084059-00028-20260410.pdf",
@@ -11618,7 +11618,7 @@
           "pdffile_accepted_date": "October 27, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:21.727867Z"
+      "checked": "2026-11-17T14:35:11.406931Z"
     },
     "84059-3": {
       "reg": "84059-3",
@@ -11636,6 +11636,12 @@
         }
       ],
       "aliases": [
+        "REGALIA PTO BIOFUNGICIDE",
+        "REGALIA ST",
+        "REGALIA CG BIOFUNGICIDE",
+        "REGALIA CG",
+        "REGALIA",
+        "REGALIA RX BIOPROTECTANT CONCENTRATE",
         "REGALIA RX",
         "REGALIA RX BIOFUNGICIDE",
         "REGALIA HOME & GARDEN BIOFUNGICIDE",
@@ -11643,13 +11649,7 @@
         "REGALIA GARDEN BIOFUNGICIDE",
         "REGALIA GARDEN",
         "REGALIA BIOFUNGICIDE",
-        "REGALIA BIOFUNGICIDE CONCENTRATE",
-        "REGALIA PTO BIOFUNGICIDE",
-        "REGALIA",
-        "REGALIA ST",
-        "REGALIA RX BIOPROTECTANT CONCENTRATE",
-        "REGALIA CG",
-        "REGALIA CG BIOFUNGICIDE"
+        "REGALIA BIOFUNGICIDE CONCENTRATE"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/084059-00003-20260820.pdf",
@@ -11761,7 +11761,7 @@
           "pdffile_accepted_date": "May 22, 2009"
         }
       ],
-      "checked": "2026-11-17T00:51:21.973676Z"
+      "checked": "2026-11-17T14:35:11.630334Z"
     },
     "84059-34": {
       "reg": "84059-34",
@@ -11779,15 +11779,6 @@
         }
       ],
       "aliases": [
-        "ARMUS",
-        "ARMIS",
-        "CONVERDE",
-        "MONGO",
-        "ENTRE",
-        "VERDEMEER",
-        "PUERTO",
-        "CRECER",
-        "PROXIMA",
         "DIAMANTE",
         "SIEMPRE",
         "FAMOUS",
@@ -11814,7 +11805,16 @@
         "BOUNTIFY",
         "ARINO",
         "ONIRA",
-        "NEOVO"
+        "NEOVO",
+        "ARMUS",
+        "ARMIS",
+        "CONVERDE",
+        "MONGO",
+        "ENTRE",
+        "VERDEMEER",
+        "PUERTO",
+        "CRECER",
+        "PROXIMA"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/084059-00034-20250307.pdf",
@@ -11826,7 +11826,7 @@
           "pdffile_accepted_date": "March 7, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:22.372604Z"
+      "checked": "2026-11-17T14:35:11.897091Z"
     },
     "84059-6": {
       "reg": "84059-6",
@@ -11844,8 +11844,8 @@
         }
       ],
       "aliases": [
-        "REGALIA RX",
-        "REGALIA RX BIOFUNGICIDE"
+        "REGALIA RX BIOFUNGICIDE",
+        "REGALIA RX"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/084059-00006-20130226.pdf",
@@ -11882,7 +11882,7 @@
           "pdffile_accepted_date": "January 25, 2010"
         }
       ],
-      "checked": "2026-11-17T00:51:22.198885Z"
+      "checked": "2026-11-17T14:35:11.642523Z"
     },
     "84229-3": {
       "reg": "84229-3",
@@ -11920,7 +11920,7 @@
           "pdffile_accepted_date": "August 6, 2008"
         }
       ],
-      "checked": "2026-11-17T00:51:22.063737Z"
+      "checked": "2026-11-17T14:35:11.671649Z"
     },
     "84229-47": {
       "reg": "84229-47",
@@ -11963,7 +11963,7 @@
           "pdffile_accepted_date": "April 26, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:22.290833Z"
+      "checked": "2026-11-17T14:35:11.879192Z"
     },
     "85678-69": {
       "reg": "85678-69",
@@ -11996,7 +11996,7 @@
           "pdffile_accepted_date": "November 18, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:22.525568Z"
+      "checked": "2026-11-17T14:35:11.963192Z"
     },
     "86431-37": {
       "reg": "86431-37",
@@ -12030,7 +12030,7 @@
           "pdffile_accepted_date": "December 13, 2021"
         }
       ],
-      "checked": "2026-11-17T00:51:22.459588Z"
+      "checked": "2026-11-17T14:35:11.901380Z"
     },
     "87373-10": {
       "reg": "87373-10",
@@ -12126,7 +12126,7 @@
           "pdffile_accepted_date": "August 5, 2004"
         }
       ],
-      "checked": "2026-11-17T00:51:22.655972Z"
+      "checked": "2026-11-17T14:35:12.130223Z"
     },
     "87373-6": {
       "reg": "87373-6",
@@ -12145,8 +12145,8 @@
       ],
       "aliases": [
         "TALARIS 70 WSB FUNGICIDE",
-        "T-METHYL 70 W WSB ",
-        "TALARIS 70 WSP FUNGICIDE"
+        "TALARIS 70 WSP FUNGICIDE",
+        "T-METHYL 70 W WSB "
       ],
       "transfers": [
         {
@@ -12219,7 +12219,7 @@
           "pdffile_accepted_date": "September 6, 2001"
         }
       ],
-      "checked": "2026-11-17T00:51:22.650744Z"
+      "checked": "2026-11-17T14:35:12.163018Z"
     },
     "87749-1": {
       "reg": "87749-1",
@@ -12263,7 +12263,7 @@
           "pdffile_accepted_date": "September 18, 2012"
         }
       ],
-      "checked": "2026-11-17T00:51:22.729063Z"
+      "checked": "2026-11-17T14:35:12.134445Z"
     },
     "88760-10": {
       "reg": "88760-10",
@@ -12281,10 +12281,10 @@
         }
       ],
       "aliases": [
-        "RANGO",
         "PROOF COLD-PRESSED NEEM OIL CONCENTRATE",
         "PROOF NEEM OIL BIOPESTICIDE",
-        "SOCORO"
+        "SOCORO",
+        "RANGO"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/088760-00010-20230302.pdf",
@@ -12326,7 +12326,7 @@
           "pdffile_accepted_date": "October 16, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:22.987759Z"
+      "checked": "2026-11-17T14:35:12.249691Z"
     },
     "88760-11": {
       "reg": "88760-11",
@@ -12367,7 +12367,7 @@
           "pdffile_accepted_date": "October 10, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:23.050529Z"
+      "checked": "2026-11-17T14:35:12.507638Z"
     },
     "89083-1": {
       "reg": "89083-1",
@@ -12395,7 +12395,7 @@
           "pdffile_accepted_date": "April 22, 2026"
         }
       ],
-      "checked": "2026-11-17T00:51:23.150733Z"
+      "checked": "2026-11-17T14:35:12.498320Z"
     },
     "89118-11": {
       "reg": "89118-11",
@@ -12428,7 +12428,7 @@
           "pdffile_accepted_date": "January 29, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:23.173375Z"
+      "checked": "2026-11-17T14:35:12.579771Z"
     },
     "89118-14": {
       "reg": "89118-14",
@@ -12472,7 +12472,7 @@
           "pdffile_accepted_date": "April 21, 2021"
         }
       ],
-      "checked": "2026-11-17T00:51:23.416516Z"
+      "checked": "2026-11-17T14:35:12.705477Z"
     },
     "89118-17": {
       "reg": "89118-17",
@@ -12490,8 +12490,8 @@
         }
       ],
       "aliases": [
-        "PHOBOS",
-        "PHOBOS FC"
+        "PHOBOS FC",
+        "PHOBOS"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/089118-00017-20251016.pdf",
@@ -12513,7 +12513,7 @@
           "pdffile_accepted_date": "December 21, 2023"
         }
       ],
-      "checked": "2026-11-17T00:51:23.334881Z"
+      "checked": "2026-11-17T14:35:12.733988Z"
     },
     "89118-18": {
       "reg": "89118-18",
@@ -12544,7 +12544,7 @@
           "pdffile_accepted_date": "September 23, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:23.619552Z"
+      "checked": "2026-11-17T14:35:12.915186Z"
     },
     "89152-4": {
       "reg": "89152-4",
@@ -12622,7 +12622,7 @@
           "pdffile_accepted_date": "July 14, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:23.498423Z"
+      "checked": "2026-11-17T14:35:13.027795Z"
     },
     "89167-39": {
       "reg": "89167-39",
@@ -12660,7 +12660,7 @@
           "pdffile_accepted_date": "April 2, 2014"
         }
       ],
-      "checked": "2026-11-17T00:51:23.641551Z"
+      "checked": "2026-11-17T14:35:13.005887Z"
     },
     "89167-83": {
       "reg": "89167-83",
@@ -12698,7 +12698,7 @@
           "pdffile_accepted_date": "August 24, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:23.658102Z"
+      "checked": "2026-11-17T14:35:12.976660Z"
     },
     "89168-114": {
       "reg": "89168-114",
@@ -12731,7 +12731,7 @@
           "pdffile_accepted_date": "September 24, 2021"
         }
       ],
-      "checked": "2026-11-17T00:51:23.753982Z"
+      "checked": "2026-11-17T14:35:13.108983Z"
     },
     "89168-41": {
       "reg": "89168-41",
@@ -12764,7 +12764,7 @@
           "pdffile_accepted_date": "December 17, 2014"
         }
       ],
-      "checked": "2026-11-17T00:51:23.921992Z"
+      "checked": "2026-11-17T14:35:13.308034Z"
     },
     "89615-2": {
       "reg": "89615-2",
@@ -12797,7 +12797,7 @@
           "pdffile_accepted_date": "February 5, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:24.046296Z"
+      "checked": "2026-11-17T14:35:13.410362Z"
     },
     "89615-3": {
       "reg": "89615-3",
@@ -12825,7 +12825,7 @@
           "pdffile_accepted_date": "February 5, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:24.067150Z"
+      "checked": "2026-11-17T14:35:13.512792Z"
     },
     "91234-158": {
       "reg": "91234-158",
@@ -12874,7 +12874,7 @@
           "pdffile_accepted_date": "January 30, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:24.016079Z"
+      "checked": "2026-11-17T14:35:13.377264Z"
     },
     "91234-210": {
       "reg": "91234-210",
@@ -12910,7 +12910,7 @@
           "pdffile_accepted_date": "December 15, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:24.181023Z"
+      "checked": "2026-11-17T14:35:13.524313Z"
     },
     "91234-248": {
       "reg": "91234-248",
@@ -12940,7 +12940,7 @@
           "pdffile_accepted_date": "February 4, 2022"
         }
       ],
-      "checked": "2026-11-17T00:51:24.385029Z"
+      "checked": "2026-11-17T14:35:13.764637Z"
     },
     "91234-268": {
       "reg": "91234-268",
@@ -12970,7 +12970,7 @@
           "pdffile_accepted_date": "August 11, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:24.318692Z"
+      "checked": "2026-11-17T14:35:13.679781Z"
     },
     "91234-345": {
       "reg": "91234-345",
@@ -13006,7 +13006,7 @@
           "pdffile_accepted_date": "June 16, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:24.470002Z"
+      "checked": "2026-11-17T14:35:13.775957Z"
     },
     "91234-412": {
       "reg": "91234-412",
@@ -13029,7 +13029,7 @@
           "pdffile_accepted_date": "November 13, 2025"
         }
       ],
-      "checked": "2026-11-17T00:51:24.493212Z"
+      "checked": "2026-11-17T14:35:13.802464Z"
     },
     "91234-74": {
       "reg": "91234-74",
@@ -13074,7 +13074,7 @@
           "pdffile_accepted_date": "June 9, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:24.827358Z"
+      "checked": "2026-11-17T14:35:14.019139Z"
     },
     "91473-1": {
       "reg": "91473-1",
@@ -13160,7 +13160,7 @@
           "pdffile_accepted_date": "February 5, 2015"
         }
       ],
-      "checked": "2026-11-17T00:51:24.977965Z"
+      "checked": "2026-11-17T14:35:14.183515Z"
     },
     "91865-2": {
       "reg": "91865-2",
@@ -13206,7 +13206,7 @@
           "pdffile_accepted_date": "April 8, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:24.775979Z"
+      "checked": "2026-11-17T14:35:14.069036Z"
     },
     "92032-1": {
       "reg": "92032-1",
@@ -13230,11 +13230,6 @@
         }
       ],
       "aliases": [
-        "CHITOPRO-I",
-        "OMNICOAT",
-        "OMNIKOTE",
-        "TRIKOAT",
-        "TRIKOTE",
         "DOMO",
         "CHITPRO",
         "ASSURE",
@@ -13252,8 +13247,13 @@
         "QUILLOL",
         "QUILLA-CIDE",
         "VERDANT",
+        "AVANT",
         "CHITOPRO-F",
-        "AVANT"
+        "CHITOPRO-I",
+        "OMNICOAT",
+        "OMNIKOTE",
+        "TRIKOAT",
+        "TRIKOTE"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/092032-00001-20240610.pdf",
@@ -13290,7 +13290,7 @@
           "pdffile_accepted_date": "December 2, 2016"
         }
       ],
-      "checked": "2026-11-17T00:51:24.868979Z"
+      "checked": "2026-11-17T14:35:14.217095Z"
     },
     "92144-2": {
       "reg": "92144-2",
@@ -13336,7 +13336,7 @@
           "pdffile_accepted_date": "June 18, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:25.196863Z"
+      "checked": "2026-11-17T14:35:14.354165Z"
     },
     "92144-3": {
       "reg": "92144-3",
@@ -13372,7 +13372,7 @@
           "pdffile_accepted_date": "June 18, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:25.294666Z"
+      "checked": "2026-11-17T14:35:14.348800Z"
     },
     "92144-4": {
       "reg": "92144-4",
@@ -13405,7 +13405,7 @@
           "pdffile_accepted_date": "June 18, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:25.353091Z"
+      "checked": "2026-11-17T14:35:14.571755Z"
     },
     "92647-2": {
       "reg": "92647-2",
@@ -13448,7 +13448,7 @@
           "pdffile_accepted_date": "March 17, 2017"
         }
       ],
-      "checked": "2026-11-17T00:51:25.474315Z"
+      "checked": "2026-11-17T14:35:14.641097Z"
     },
     "93051-4": {
       "reg": "93051-4",
@@ -13476,7 +13476,7 @@
           "pdffile_accepted_date": "July 30, 2021"
         }
       ],
-      "checked": "2026-11-17T00:51:25.732004Z"
+      "checked": "2026-11-17T14:35:14.886077Z"
     },
     "93505-1": {
       "reg": "93505-1",
@@ -13539,7 +13539,7 @@
           "pdffile_accepted_date": "October 18, 2018"
         }
       ],
-      "checked": "2026-11-17T00:51:25.628255Z"
+      "checked": "2026-11-17T14:35:14.712524Z"
     },
     "93809-9": {
       "reg": "93809-9",
@@ -13574,7 +13574,7 @@
           "pdffile_accepted_date": "June 8, 2022"
         }
       ],
-      "checked": "2026-11-17T00:51:25.959703Z"
+      "checked": "2026-11-17T14:35:15.033882Z"
     },
     "93930-4": {
       "reg": "93930-4",
@@ -13604,7 +13604,7 @@
           "pdffile_accepted_date": "March 5, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:25.900655Z"
+      "checked": "2026-11-17T14:35:14.948285Z"
     },
     "93930-78": {
       "reg": "93930-78",
@@ -13634,7 +13634,7 @@
           "pdffile_accepted_date": "October 26, 2021"
         }
       ],
-      "checked": "2026-11-17T00:51:25.900066Z"
+      "checked": "2026-11-17T14:35:14.968598Z"
     },
     "94614-9": {
       "reg": "94614-9",
@@ -13673,7 +13673,7 @@
           "pdffile_accepted_date": "August 27, 2019"
         }
       ],
-      "checked": "2026-11-17T00:51:26.021420Z"
+      "checked": "2026-11-17T14:35:15.113322Z"
     },
     "94730-6": {
       "reg": "94730-6",
@@ -13691,9 +13691,9 @@
         }
       ],
       "aliases": [
-        "WILLOWOOD AZOXY 2SC",
         "GCS AZOXY 2SC",
-        "FARMERS FIRST AZOXYSTROBIN 2SC"
+        "FARMERS FIRST AZOXYSTROBIN 2SC",
+        "WILLOWOOD AZOXY 2SC"
       ],
       "transfers": [],
       "latestDocument": "https://www3.epa.gov/pesticides/chem_search/ppls/094730-00006-20230830.pdf",
@@ -13710,7 +13710,7 @@
           "pdffile_accepted_date": "August 6, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:26.511274Z"
+      "checked": "2026-11-17T14:35:15.418105Z"
     },
     "95653-1": {
       "reg": "95653-1",
@@ -13738,7 +13738,7 @@
           "pdffile_accepted_date": "June 10, 2020"
         }
       ],
-      "checked": "2026-11-17T00:51:26.415983Z"
+      "checked": "2026-11-17T14:35:15.497006Z"
     },
     "95783-2": {
       "reg": "95783-2",
@@ -13774,7 +13774,7 @@
           "pdffile_accepted_date": "August 1, 2024"
         }
       ],
-      "checked": "2026-11-17T00:51:26.428573Z"
+      "checked": "2026-11-17T14:35:15.359402Z"
     },
     "99270-1": {
       "reg": "99270-1",
@@ -13802,7 +13802,7 @@
           "pdffile_accepted_date": "March 7, 2022"
         }
       ],
-      "checked": "2026-11-17T00:51:26.489969Z"
+      "checked": "2026-11-17T14:35:15.522159Z"
     }
   },
   "criticalChanges": {},
