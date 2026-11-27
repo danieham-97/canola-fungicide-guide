@@ -1,1721 +1,1720 @@
 {
   "schema": 1,
   "reviewedHash": "400edb4e6323989c0c80b081544d08781316fb5392e12a108583d1c64997ef63",
-  "startedAt": "2026-11-26T15:25:27.908035Z",
-  "generatedAt": "2026-11-26T15:26:41.245398Z",
+  "startedAt": "2026-11-27T01:02:19.167851Z",
+  "generatedAt": "2026-11-27T01:03:58.298739Z",
   "requestTimeoutSeconds": 20,
   "epaChecks": {
     "100-1093": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:28.470830Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906291Z",
+      "result": "Not verified: Remote end closed connection without response"
     },
     "100-1098": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:28.623938Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906774Z",
+      "result": "Not verified: Remote end closed connection without response"
     },
     "100-1262": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:28.666309Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:30.907309Z",
+      "result": "Not verified: Remote end closed connection without response"
     },
     "100-1312": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:28.491585Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:30.906340Z",
+      "result": "Not verified: Remote end closed connection without response"
     },
     "100-1471": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:29.312080Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:35.179966Z",
+      "result": "Not verified: Remote end closed connection without response"
     },
     "100-1475": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:29.253713Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:35.180899Z",
+      "result": "Not verified: Remote end closed connection without response"
     },
     "100-1476": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:29.870062Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:44.731204Z",
+      "result": "Not verified: Remote end closed connection without response"
     },
     "100-1480": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:29.816409Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:44.730954Z",
+      "result": "Not verified: Remote end closed connection without response"
     },
     "100-1601": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:30.049425Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:50.184533Z",
+      "result": "Not verified: Remote end closed connection without response"
     },
     "100-1602": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:30.713468Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906805Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "100-1605": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:30.291745Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906817Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "100-1613": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:30.457322Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906825Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "100-1716": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:31.712661Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906832Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "100-1770": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:30.891629Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906839Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "100-617": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:31.264889Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906858Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "101458-5": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:31.579372Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906871Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "10163-324": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:31.836014Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906880Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "10163-332": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:31.862141Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906887Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "10163-397": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:32.285793Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906894Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "10163-405": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:32.485518Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906901Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "101986-4": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:32.346939Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906915Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "103591-138": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:32.546341Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906921Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "103591-5": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:32.729410Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906929Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "104810-3": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:33.104169Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906947Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "105211-92": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:32.802321Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906960Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "1381-244": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:33.703845Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906967Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "1381-267": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:33.806801Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906974Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "19713-715": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:33.830241Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906980Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "228-720": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:33.491527Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906986Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "228-721": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:34.293993Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906992Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "264-1078": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:34.314325Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.906999Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "264-1084": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:34.198138Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907005Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "264-1151": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:34.352805Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907022Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "264-1152": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:35.231373Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907036Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "264-1153": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:35.126656Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907049Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "264-1160": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:35.497017Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907058Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "264-825": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:34.735915Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907064Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "2686-22": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:35.189258Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907071Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "2749-649": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:35.478870Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907077Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "2749-652": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:35.470698Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907083Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "2749-655": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:35.622477Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907088Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "279-3592": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:36.037551Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907094Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "2935-560": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:36.182007Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907100Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "33270-32": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:36.158558Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907106Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "34704-1068": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:36.253260Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907112Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "34704-1141": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:36.394725Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907118Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "34704-1163": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:36.586604Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907129Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "34704-924": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:36.779890Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907138Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "352-834": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:36.685818Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907148Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "352-836": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:37.574594Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907155Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "352-840": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:37.092702Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907161Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "352-942": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:37.440339Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907168Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "42750-261": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:37.726500Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907173Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "42750-289": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:38.023422Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907179Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "44956-6": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:38.177013Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907185Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "45002-24": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:37.893480Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907191Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "45002-56": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:38.348444Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907197Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "51517-11": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:38.412334Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907204Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "52287-25": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:38.472618Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907215Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "58866-12": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:38.681592Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907229Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "59639-147": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:39.255004Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907241Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "59639-198": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:39.435077Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907247Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "59639-227": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:39.428657Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907258Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "60063-12": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:39.158531Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907264Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "60063-59": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:39.577838Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907270Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "60063-80": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:39.967782Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907276Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "60063-81": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:40.585923Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907283Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "60063-83": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:41.053445Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907289Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "60063-86": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:40.923185Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907295Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "60063-93": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:40.435099Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907312Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "61842-16": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:41.207808Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907325Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "61842-18": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:41.430788Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907332Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "62719-754": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:41.389991Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907341Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "62719-788": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:42.022067Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907347Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "64137-13": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:45.465388Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907353Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "66222-145": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:44.013601Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907359Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "66222-307": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:43.738049Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907365Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "67690-109": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:42.772861Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907371Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "67702-2": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:44.562873Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907377Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "67702-22": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:44.167237Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907392Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "68573-2": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:45.264935Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907405Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70051-107": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:45.018930Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907415Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70051-2": {
-      "status": "changed",
-      "date": "2026-11-26T15:25:45.523530Z",
-      "result": "Latest EPA document changed"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907424Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70299-28": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:45.353672Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907430Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70506-243": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:45.783970Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907436Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70506-351": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:45.869733Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907442Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70506-438": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:46.230700Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907448Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70506-440": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:45.938304Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907454Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70506-442": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:46.819940Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907459Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70506-443": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:46.822467Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907465Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70506-444": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:46.242893Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907478Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70506-508": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:46.722374Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907490Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "70506-608": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:46.533919Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907499Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "71512-22": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:46.843463Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907504Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "71532-35": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:47.435104Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907514Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "71771-14": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:47.671504Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907520Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "71840-18": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:47.277692Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907526Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "71962-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:47.368402Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907535Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "71962-2": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:48.412718Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907541Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "72431-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:47.934285Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907578Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "72662-10": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:48.321815Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907588Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "72662-11": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:48.431338Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907594Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "72662-12": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:48.452752Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907601Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "72662-15": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:49.211607Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907606Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "72662-17": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:49.625626Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907612Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "72662-19": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:49.215848Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907618Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73049-522": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:49.650964Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907624Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73049-557": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:49.515960Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907630Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73049-558": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:49.702677Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907637Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73049-559": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:49.848091Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907652Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73049-560": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:50.940633Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907665Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73314-20": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:50.516671Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907672Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73771-11": {
-      "status": "changed",
-      "date": "2026-11-26T15:25:51.114786Z",
-      "result": "Federal status changed"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907678Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73771-5": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:51.356822Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907684Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73806-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:50.956155Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907691Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73806-2": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:51.352763Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907701Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73806-3": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:51.450800Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907707Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "73806-5": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:51.583762Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907713Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "75747-3": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:52.057091Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907721Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "75747-5": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:51.640780Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907738Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-186": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:51.886727Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907751Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-197": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:52.105543Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907758Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-289": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:51.891657Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907764Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-309": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:52.334188Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907773Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-310": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:52.204863Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907779Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-311": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:53.754321Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907785Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-406": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:53.137046Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907793Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-408": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:52.629039Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907799Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-409": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:52.751932Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907805Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-411": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:53.057375Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907819Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-486": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:53.265873Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907832Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "7969-508": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:53.552332Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907840Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "8033-122": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:53.982364Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907846Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "8033-124": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:55.424826Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907852Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "8033-125": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:54.885590Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907858Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "8033-126": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:54.479298Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907864Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "81606-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:54.635649Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907870Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "82940-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:54.855012Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907876Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "83070-14": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:54.881430Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907881Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "83100-82": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:55.111046Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907887Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "83529-124": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:55.245997Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907893Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "83529-161": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:55.141184Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907909Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "83529-284": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:55.405890Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907921Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "83529-368": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:55.937280Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907928Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "83529-64": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:55.752417Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907934Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "83772-12": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:56.909849Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907940Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "84059-22": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:55.825452Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907946Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "84059-28": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:56.379803Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907952Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "84059-3": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:56.419070Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907959Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "84059-34": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:57.486103Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907968Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "84059-6": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:56.732726Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907975Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "84229-3": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:57.071686Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.907987Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "84229-47": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:57.163408Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908001Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "85678-69": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:57.674427Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908011Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "86431-37": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:57.307324Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908017Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "87373-10": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:58.197783Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908027Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "87373-6": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:59.020919Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908033Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "87749-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:57.946584Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908041Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "88760-10": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:58.741230Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908048Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "88760-11": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:58.803964Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908054Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89083-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:58.967842Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908060Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89118-11": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:59.764824Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908071Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89118-14": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:00.323449Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908084Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89118-17": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:59.425472Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908095Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89118-18": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:59.457302Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908101Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89152-4": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:00.830582Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908108Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89167-39": {
-      "status": "matched",
-      "date": "2026-11-26T15:25:59.865978Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908114Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89167-83": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:00.214296Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908120Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89168-114": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:00.816462Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908126Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89168-41": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:00.655562Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908132Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89615-2": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:01.838903Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908137Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "89615-3": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:01.150851Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908143Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "91234-158": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:01.949232Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908149Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "91234-210": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:02.236104Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908163Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "91234-248": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:02.451821Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908179Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "91234-268": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:02.732669Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908186Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "91234-345": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:04.203295Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908193Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "91234-412": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:02.768704Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908199Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "91234-74": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:02.864494Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908205Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "91473-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:03.976041Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908214Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "91865-2": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:05.917366Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908220Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "92032-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:03.359784Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908226Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "92144-2": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:03.825591Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908231Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "92144-3": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:05.055085Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908242Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "92144-4": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:08.039497Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908256Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "92647-2": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:06.669460Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908267Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "93051-4": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:10.694175Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908273Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "93505-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:09.393682Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908280Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "93809-9": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:07.985434Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908286Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "93930-4": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:13.490142Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908295Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "93930-78": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:08.538761Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908301Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "94614-9": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:14.006387Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908315Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "94730-6": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:09.989808Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908321Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "95653-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:11.173252Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908336Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "95783-2": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:13.237408Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908350Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     },
     "99270-1": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:11.730624Z",
-      "result": "Federal record matches reviewed baseline"
+      "status": "unavailable",
+      "date": "2026-11-27T01:02:37.908357Z",
+      "result": "Not verified: Not requested: repeated EPA endpoint failures in this run"
     }
   },
   "checks": {
     "epa_86431_37": {
       "status": "matched",
-      "date": "2026-11-26T15:26:14.378140Z",
+      "date": "2026-11-27T01:02:52.836379Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7d9269c056f930757669675ff329b40bd1374c5d2ebbbedfd4d6d94ab8ea1c08"
     },
     "epa_83529_64": {
       "status": "matched",
-      "date": "2026-11-26T15:26:14.426905Z",
+      "date": "2026-11-27T01:02:52.129957Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "61b1a1b94b9797a4d1d5dfb594f34b6d18f55693acded2000deeb0894dac31cd"
     },
     "epa_100_1716": {
       "status": "matched",
-      "date": "2026-11-26T15:26:14.379616Z",
+      "date": "2026-11-27T01:02:51.824229Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d13e247415183dd51218322d66936bff033652690014970ef0e0a389f7a3522a"
     },
     "epa_91234_248": {
       "status": "matched",
-      "date": "2026-11-26T15:26:14.376437Z",
+      "date": "2026-11-27T01:02:52.012885Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "3048c107ed018fce55b3a7c94d4c1398fb5ec50f98102cd57a7b811132f9edcd"
     },
     "affiance_gb3": {
       "status": "matched",
-      "date": "2026-11-26T15:26:14.747698Z",
+      "date": "2026-11-27T01:02:52.616054Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "eef66975b74695c95f166f4c0a636c730b7863837a6320da5f7747fdc1da2ef1"
     },
     "aframe_live": {
       "status": "matched",
-      "date": "2026-11-26T15:26:17.449238Z",
+      "date": "2026-11-27T01:02:56.016517Z",
       "result": "Linked PDF matches reviewed fingerprint",
-      "sha256": "cd4285c309e5ba65980d2df03679f50aa4281291695ade335e475ab546d18828"
+      "sha256": "36a64e23ae764aa6df4e6cdbdd724159d40b52d555f9abd4a8f3d68fd01d242b"
     },
     "epa_83070_14": {
       "status": "matched",
-      "date": "2026-11-26T15:26:14.578095Z",
+      "date": "2026-11-27T01:02:53.232234Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7ad8e55058f5bfaaca9fc0dee75e14873a14f61872630b193836722bc12b117e"
     },
     "andiamo": {
       "status": "matched",
-      "date": "2026-11-26T15:26:15.054455Z",
+      "date": "2026-11-27T01:02:52.894472Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1162b7c1b795341a87e183ff904c3b0db97fefa5a46c8cf3899dd8bed28851f4"
     },
     "aproach": {
       "status": "matched",
-      "date": "2026-11-26T15:26:15.192775Z",
+      "date": "2026-11-27T01:02:53.169255Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "e86aee8819eba1f87218db456f752a38dddd34b0eace316634edef858f5ec2cb"
     },
     "epa_75747_3": {
       "status": "matched",
-      "date": "2026-11-26T15:26:14.946519Z",
+      "date": "2026-11-27T01:02:53.695049Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1b3820d1c010029e57ef7c3c67ae1ef1d48d225499d0209310ce48b7ad59ad0f"
     },
     "epa_75747_5": {
       "status": "matched",
-      "date": "2026-11-26T15:26:20.046272Z",
+      "date": "2026-11-27T01:03:05.992609Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1c7a34d9bfaa70e998ceb95a9e89740b513c1e7fa6128e356fe9b079c0a101e4"
     },
     "epa_91234_74": {
       "status": "matched",
-      "date": "2026-11-26T15:26:16.014828Z",
+      "date": "2026-11-27T01:02:55.976987Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7f761ecb32eb97486b07db37ac9e27a84029d3ec8a92297e0e62f5b0de65b0e3"
     },
     "aurelia": {
       "status": "matched",
-      "date": "2026-11-26T15:26:15.715389Z",
+      "date": "2026-11-27T01:02:54.415970Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "853aa7ebcb7e3691ffe59cb692bdf457f43174756f5a5348b62f17ba2204dc7b"
     },
     "epa_93930_4": {
       "status": "matched",
-      "date": "2026-11-26T15:26:16.553250Z",
+      "date": "2026-11-27T01:02:56.595038Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "fbecdfeb8009ec692865482589c66573faa7492ebe7727440d4ceb4e011657c4"
     },
     "aviv": {
       "status": "changed",
-      "date": "2026-11-26T15:26:16.567834Z",
+      "date": "2026-11-27T01:02:56.576591Z",
       "result": "PDF changed; directions withheld pending review",
       "sha256": "41d99ad7547d487500208d4bddb1c095e7bc51ce8b05a41ae5bcbe555d9ec232"
     },
     "epa_89167_39": {
       "status": "matched",
-      "date": "2026-11-26T15:26:17.653855Z",
+      "date": "2026-11-27T01:02:58.885702Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1a55492f9886334ada0bbba92c9f345803f3e1d5caf4d16c3411ad835058006f"
     },
     "epa_93809_9": {
       "status": "matched",
-      "date": "2026-11-26T15:26:16.924723Z",
+      "date": "2026-11-27T01:02:59.439805Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "a39eaa100ad8354d797133fee54e81014ad2cbdaf07a6404e1db2d4754e8b914"
     },
     "epa_2749_655": {
       "status": "matched",
-      "date": "2026-11-26T15:26:17.599893Z",
+      "date": "2026-11-27T01:02:57.922416Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ef1d070359588fde2cf990b997cc1639dae570c75820743723ecfbc892b6f1a9"
     },
     "azoxystar": {
       "status": "matched",
-      "date": "2026-11-26T15:26:18.036515Z",
+      "date": "2026-11-27T01:02:58.023561Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "99541bbef531eabb0345696eb3f015dee762aa69a8b02de4b0c3cc9b2de734e3"
     },
     "epa_71532_35": {
       "status": "matched",
-      "date": "2026-11-26T15:26:17.875169Z",
+      "date": "2026-11-27T01:03:00.043183Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "66e637cbc23252aba7db165d9186f3126e569f5b5b033b353d95849cf6ad3018"
     },
     "epa_103591_138": {
       "status": "matched",
-      "date": "2026-11-26T15:26:18.385501Z",
+      "date": "2026-11-27T01:02:59.661467Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "2a9f17753575aeaa49c988702b313ef434c9d229934b01bfbe8ce5578cd7b664"
     },
     "epa_85678_69": {
       "status": "matched",
-      "date": "2026-11-26T15:26:18.127620Z",
+      "date": "2026-11-27T01:03:01.345730Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0cf1503800332755790512baa715231a338edb701cdd7fd7e7cc1fff0d6b1416"
     },
     "azoxy_sc": {
       "status": "matched",
-      "date": "2026-11-26T15:26:18.703530Z",
+      "date": "2026-11-27T01:03:00.520777Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7d95d62ce2c82ea84f9f3b2d84368e2b117f0e8d1d5e881c6ff6c6c96021956f"
     },
     "azterknot_gb0": {
       "status": "matched",
-      "date": "2026-11-26T15:26:18.386984Z",
+      "date": "2026-11-27T01:03:00.699670Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "584b53b4c48612fa056c4d0f593769ec8fa874114c16051ff50186356116e97b"
     },
     "azteroid33": {
       "status": "matched",
-      "date": "2026-11-26T15:26:19.132001Z",
+      "date": "2026-11-27T01:03:02.606325Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1006f0bb41a3d5636a8e77dad3344036ad56bb70057694d832986a332e72b03b"
     },
     "epa_89118_18": {
       "status": "matched",
-      "date": "2026-11-26T15:26:18.816760Z",
+      "date": "2026-11-27T01:03:01.800207Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ec877e4a20ebc74ee8d66c449430733e7339d2160ec5f8fee92592081d57dab2"
     },
     "epa_228_720": {
       "status": "matched",
-      "date": "2026-11-26T15:26:19.301367Z",
+      "date": "2026-11-27T01:03:01.984323Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c693668d8f95c033941e488971f70e6ee880c567a0529b6240a379a8dde744a3"
     },
     "epa_93505_1": {
       "status": "matched",
-      "date": "2026-11-26T15:26:19.497602Z",
+      "date": "2026-11-27T01:03:04.104818Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c7bff7b69da19ec18cc598906214f6c43fbe0961ee869b8b7f9d750c474c9fd4"
     },
     "ballad_plus": {
       "status": "matched",
-      "date": "2026-11-26T15:26:19.437010Z",
+      "date": "2026-11-27T01:03:02.826209Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "50fed582e40faf162d80e0bce82834b6c78309c536f3c81a9e97cb956779fa84"
     },
     "epa_60063_80": {
       "status": "matched",
-      "date": "2026-11-26T15:26:19.544707Z",
+      "date": "2026-11-27T01:03:03.912075Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "256d62ddbae32c877d7abae85015fb7e422c5fd0564f0ea8d08798168a5da6b8"
     },
     "bonafide": {
       "status": "matched",
-      "date": "2026-11-26T15:26:19.887251Z",
+      "date": "2026-11-27T01:03:03.437762Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0048579deb0255025deb9259bf492cec140da6f3916a2a5c299981e3a1429cf7"
     },
     "brixen": {
       "status": "matched",
-      "date": "2026-11-26T15:26:19.969867Z",
+      "date": "2026-11-27T01:03:04.045213Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c789becb3ff2b6b6926cef633be57be8324e72d7e78e87e3c0625d47e324c6d8"
     },
     "cortina_epa": {
       "status": "matched",
-      "date": "2026-11-26T15:26:19.772134Z",
+      "date": "2026-11-27T01:03:05.534519Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d89c769fb68627e989728a3598bc6b74e9ddb996a6999a333467dafbceae93ae"
     },
     "cover_live": {
       "status": "matched",
-      "date": "2026-11-26T15:26:19.802865Z",
+      "date": "2026-11-27T01:03:04.065652Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7e3dff3a4e3a07f99adbcba798e3c11cb187192bb76129cc340a699a4a31fece"
     },
     "epa_101458_5": {
       "status": "matched",
-      "date": "2026-11-26T15:26:20.837118Z",
+      "date": "2026-11-27T01:03:07.515108Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5ac34a6016692e53d3c5a323cb42a2373ecc73f134d459a2af9572d675444b86"
     },
     "epa_73049_558": {
       "status": "matched",
-      "date": "2026-11-26T15:26:20.112513Z",
+      "date": "2026-11-27T01:03:05.811967Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "f8332013c930303517cfd275e25403857b9ff4fd9f42118952e5adbbdcc07280"
     },
     "epa_73049_559": {
       "status": "matched",
-      "date": "2026-11-26T15:26:20.453420Z",
+      "date": "2026-11-27T01:03:06.103083Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ee2422173460c8ad18125446af544d35409a53f19bb760f8e21df42327f4bb7a"
     },
     "epa_73049_557": {
       "status": "matched",
-      "date": "2026-11-26T15:26:20.676597Z",
+      "date": "2026-11-27T01:03:06.513579Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "6df079ca655a429552d9943e662b6a9191a39737e219aa0a637460b443a71975"
     },
     "epa_73049_560": {
       "status": "matched",
-      "date": "2026-11-26T15:26:20.764763Z",
+      "date": "2026-11-27T01:03:07.720629Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "90b08020f3ad762dd54ef8fc7edc4c8482f614806e05984673a075917ea6419f"
     },
     "epa_70506_351": {
       "status": "matched",
-      "date": "2026-11-26T15:26:21.343559Z",
+      "date": "2026-11-27T01:03:08.761002Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "21fcf8f139cf9ebef65a6134d1b1ef18926b4ec55a6117cdcca819ee5ccfdcf5"
     },
     "domark": {
       "status": "matched",
-      "date": "2026-11-26T15:26:20.900403Z",
+      "date": "2026-11-27T01:03:06.735603Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d45cd7f9a180e995503ee327dcd72b424d973249da3f24e23590445d92c004dc"
     },
     "endura": {
       "status": "matched",
-      "date": "2026-11-26T15:26:21.127602Z",
+      "date": "2026-11-27T01:03:07.172301Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "e186240c9f74027939c1c5327679bca8e1c46f8afa14b92b4dd15dfb0a2155c8"
     },
     "endura_pro": {
       "status": "matched",
-      "date": "2026-11-26T15:26:21.444031Z",
+      "date": "2026-11-27T01:03:07.513975Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "8f3a0ace55a877e6e7ff74674ff26bb50abaabd1c7ca39840de4686e35fe81d5"
     },
     "entador": {
       "status": "matched",
-      "date": "2026-11-26T15:26:21.018474Z",
+      "date": "2026-11-27T01:03:07.823357Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "eeaca6a227b6fcaf35b7a9578ff679b307b808882337894d481fc85b70af9ef0"
     },
     "epa_279_3592": {
       "status": "matched",
-      "date": "2026-11-26T15:26:21.268534Z",
+      "date": "2026-11-27T01:03:09.472660Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "3722d1e280c7b31e5d767a2dbc821d2a30920e5c218dc4d3e6f9f1d82e837294"
     },
     "epa_91234_268": {
       "status": "matched",
-      "date": "2026-11-26T15:26:21.604612Z",
+      "date": "2026-11-27T01:03:09.226163Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "3f7baeb26a55da816d58776256455233215e045de25ff3f3f43b27af85e2d220"
     },
     "everlon": {
       "status": "matched",
-      "date": "2026-11-26T15:26:21.549161Z",
+      "date": "2026-11-27T01:03:08.587129Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "fef4e2b6e8a844f395a264b92c832ed4dbc2448a8e444f3411500dc25f905778"
     },
     "fontelis_current": {
       "status": "matched",
-      "date": "2026-11-26T15:26:21.990313Z",
+      "date": "2026-11-27T01:03:08.853679Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "eb8be714e504a0754b486becbbf19c1cd11138026e574ce81f7b249c1dd6828c"
     },
     "epa_92144_2": {
       "status": "matched",
-      "date": "2026-11-26T15:26:22.247508Z",
+      "date": "2026-11-27T01:03:11.187704Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "9e66a6f7674728367dd2fa2f62555a22c4baa755aa071d8974cab6d3552f2a82"
     },
     "epa_92144_3": {
       "status": "matched",
-      "date": "2026-11-26T15:26:22.088820Z",
+      "date": "2026-11-27T01:03:10.506191Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "741bd28eaf79de631222b9f83236bd170fa6a3800b8b727da82be05fcb7d16e2"
     },
     "epa_70506_442": {
       "status": "matched",
-      "date": "2026-11-26T15:26:22.273903Z",
+      "date": "2026-11-27T01:03:11.337748Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "cff52be426bc2864782dfad97ff916d6e8cc9eb9d195c1055565b74bfcc9f5af"
     },
     "gcs_azoxy": {
       "status": "matched",
-      "date": "2026-11-26T15:26:22.236650Z",
+      "date": "2026-11-27T01:03:10.233658Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5dc08f75268c9558cdc72c8714a364ba1ceaf37e2584395458b27915f85e34f5"
     },
     "epa_62719_754": {
       "status": "matched",
-      "date": "2026-11-26T15:26:22.456958Z",
+      "date": "2026-11-27T01:03:11.756343Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "2ddbc57cd17cde935f552fb5b7ed3ed2f23fe37898e81ce7b5a1ad053e70757e"
     },
     "epa_2686_22": {
       "status": "matched",
-      "date": "2026-11-26T15:26:22.701288Z",
+      "date": "2026-11-27T01:03:13.726019Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5a6d3df3bb9509b6b875003cf4e420b24103722bf0603ad39496f0152a693709"
     },
     "epa_59639_198": {
       "status": "matched",
-      "date": "2026-11-26T15:26:22.801788Z",
+      "date": "2026-11-27T01:03:11.921419Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d6d7b7e2a6d698507f408558bb161fec787d4cde6b2cddb9d2b6cf240bba8848"
     },
     "kenja": {
       "status": "matched",
-      "date": "2026-11-26T15:26:22.653157Z",
+      "date": "2026-11-27T01:03:11.833692Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1c1c286c84480a6a2e1a5eec608ae229b4360631db8e3c917673e000bd8fe065"
     },
     "epa_99270_1": {
       "status": "matched",
-      "date": "2026-11-26T15:26:23.033280Z",
+      "date": "2026-11-27T01:03:12.394994Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "928cb88abb88adda0879e2a3ee655bc271192b7d1e26ba8b62671050778ce9f8"
     },
     "epa_89168_41": {
       "status": "matched",
-      "date": "2026-11-26T15:26:23.393228Z",
+      "date": "2026-11-27T01:03:16.598683Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "83f07d5dae46e582c63ca6d6a036be6ae541a2783ecb621e492723407f2b8989"
     },
     "epa_34704_1163": {
       "status": "matched",
-      "date": "2026-11-26T15:26:23.288753Z",
+      "date": "2026-11-27T01:03:14.089014Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "41fd81dd317fce6ffe0c51718df505af5c8e4b4a25cd11f6e416b1e3b467004d"
     },
     "epa_264_1078": {
       "status": "matched",
-      "date": "2026-11-26T15:26:23.704056Z",
+      "date": "2026-11-27T01:03:14.698728Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "35d1f67aa2ff110b807279c7a50b3bad68079970a347de59ed044f99ba36cbfb"
     },
     "maxentis": {
       "status": "matched",
-      "date": "2026-11-26T15:26:23.659106Z",
+      "date": "2026-11-27T01:03:13.993329Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7823dfa2fd81b23d160097dd1b5597206a202ac56a91e48c1a9b05325a0672a4"
     },
     "epa_7969_310": {
       "status": "matched",
-      "date": "2026-11-26T15:26:24.385400Z",
+      "date": "2026-11-27T01:03:17.770522Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "4aefc94011709a82174af00a2265c35210ce2c46378254c605b097f56c087b7b"
     },
     "microp_supp3": {
       "status": "matched",
-      "date": "2026-11-26T15:26:23.574821Z",
+      "date": "2026-11-27T01:03:14.622028Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "6a548ac8c48ed165daf35232045608f972d3720bb01a55ed8774d84ea9c961f7"
     },
     "epa_72662_10": {
       "status": "matched",
-      "date": "2026-11-26T15:26:24.005012Z",
+      "date": "2026-11-27T01:03:16.096935Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "70104af7c143031ebba08eac8a95a062af482c7dba70e02df295474d1047d3e4"
     },
     "epa_89615_2": {
       "status": "matched",
-      "date": "2026-11-26T15:26:24.295871Z",
+      "date": "2026-11-27T01:03:16.735170Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "3d7256f754f45458dbe3f91da61d0bd5df2e2f1d0227ab5a74c480ff37b03702"
     },
     "epa_89615_3": {
       "status": "matched",
-      "date": "2026-11-26T15:26:24.178204Z",
+      "date": "2026-11-27T01:03:17.413878Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "353d47db58a9c3e31f142629c8c38858759253b17984c34361afc605ac8c96aa"
     },
     "epa_60063_12": {
       "status": "matched",
-      "date": "2026-11-26T15:26:24.518805Z",
+      "date": "2026-11-27T01:03:18.547499Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5cdecb3e2ed5b4494b5e451ede6d788afa00c81671052f36ffcaea3e5eab6225"
     },
     "epa_100_1601": {
       "status": "matched",
-      "date": "2026-11-26T15:26:24.843656Z",
+      "date": "2026-11-27T01:03:18.930256Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "8e3912d7a677af7592e38d1bc19de53f55219ac35905d796c7de0ccbe33c6566"
     },
     "miravis_neo": {
       "status": "matched",
-      "date": "2026-11-26T15:26:27.753013Z",
+      "date": "2026-11-27T01:03:20.840331Z",
       "result": "Linked PDF matches reviewed fingerprint",
-      "sha256": "113059613b5fc9455c4a736d82b7bc9a828dc12cbb7769a9f6e7dd2d6f8b559f"
+      "sha256": "95ce61d3c21c6b4991e4fd878fc113ca4369eba090f5efbdcdac29cd11b042ae"
     },
     "epa_100_1602": {
       "status": "matched",
-      "date": "2026-11-26T15:26:24.878877Z",
+      "date": "2026-11-27T01:03:19.407895Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c4e5f17d12f615d061474eb5832f22024a6878332dceca7a244091ab5084f1ca"
     },
     "epa_228_721": {
       "status": "matched",
-      "date": "2026-11-26T15:26:25.297667Z",
+      "date": "2026-11-27T01:03:19.317225Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "95ea887ae444170b8ba1a73cdb619bbdcbc8683ed17faa84aa3e7fb3375a37d1"
     },
     "oxidate": {
       "status": "matched",
-      "date": "2026-11-26T15:26:25.025311Z",
+      "date": "2026-11-27T01:03:19.575712Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "a64eee3c267682552a716e0fa61c4edcb29aa1247b2ed0dea87c0164d803f804"
     },
     "epa_73806_3": {
       "status": "matched",
-      "date": "2026-11-26T15:26:25.676166Z",
+      "date": "2026-11-27T01:03:20.082614Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "9717c8b46e2b0dde37d0a04ed567ce384ffa639aff932daa76e1fd3c7b871b95"
     },
     "epa_73806_1": {
       "status": "matched",
-      "date": "2026-11-26T15:26:26.126016Z",
+      "date": "2026-11-27T01:03:22.608209Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0e236cef23cdf9f67ae32afe46e415d01b2ab473a4b20ddbaee5dc62605fc995"
     },
     "epa_73806_5": {
       "status": "matched",
-      "date": "2026-11-26T15:26:26.242969Z",
+      "date": "2026-11-27T01:03:20.409433Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d3e9006847509609d7f51d1946b7f051018aceecc264b1db6fdd05ef8d34b563"
     },
     "epa_71771_14": {
       "status": "matched",
-      "date": "2026-11-26T15:26:25.959905Z",
+      "date": "2026-11-27T01:03:21.798502Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "b771a0f9a79c33b29ae71e96a8cc8a2762abc036386e8b99b33c24f54f1cd064"
     },
     "phobos": {
       "status": "matched",
-      "date": "2026-11-26T15:26:26.193768Z",
+      "date": "2026-11-27T01:03:21.115073Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "bba2560a91a27f36eed8a89d497099b4924015fcd0c3fe4afae0cf3a5f99236d"
     },
     "polyversum": {
       "status": "matched",
-      "date": "2026-11-26T15:26:26.558494Z",
+      "date": "2026-11-27T01:03:24.150650Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ccbe5a4bd56b009ba6f40f500f2695bd6399b27ffbd94015966731204831cb0f"
     },
     "prabha": {
       "status": "matched",
-      "date": "2026-11-26T15:26:26.374655Z",
+      "date": "2026-11-27T01:03:21.699110Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "697e32789790b51a3ad450957c7bf4c593e68c32e4ce51fdcb267fc432d0901a"
     },
     "epa_64137_13": {
       "status": "matched",
-      "date": "2026-11-26T15:26:26.618277Z",
+      "date": "2026-11-27T01:03:24.597731Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "310eaadb8fd26d91145f5fb5e33e24ac43c8ea83e7346f162abf4412f315ac82"
     },
     "priaxor": {
       "status": "matched",
-      "date": "2026-11-26T15:26:26.687627Z",
+      "date": "2026-11-27T01:03:22.241965Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d97571413b86fc0097327925e85d9bbdb71e6838cf0f5cf124cecdc2a55b51ce"
     },
     "proline": {
       "status": "matched",
-      "date": "2026-11-26T15:26:26.805679Z",
+      "date": "2026-11-27T01:03:23.893015Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "15ab1bfd06f03564c0b6b6035a657a44cfe1ab41eb15de9ee7a2c8f37a17d63a"
     },
     "propulse_epa": {
       "status": "matched",
-      "date": "2026-11-26T15:26:27.085688Z",
+      "date": "2026-11-27T01:03:24.178213Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "00d092195573a8baa8ebbd9064294f7ecb953a9f1c02ceefbb2fd8428a13a76f"
     },
     "epa_95783_2": {
       "status": "matched",
-      "date": "2026-11-26T15:26:27.037555Z",
+      "date": "2026-11-27T01:03:26.476332Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "b937cb339bdca07bff3d787a8a97f93409b95ad254304d930d5706797307fc37"
     },
     "epa_2749_652": {
       "status": "matched",
-      "date": "2026-11-26T15:26:27.243988Z",
+      "date": "2026-11-27T01:03:25.341985Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "b59f2298e6c7f1e7df6ffac48503f57337a5ae22d91903e70aa4b82b28dff86e"
     },
     "epa_91234_345": {
       "status": "matched",
-      "date": "2026-11-26T15:26:27.339632Z",
+      "date": "2026-11-27T01:03:26.624674Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "93065f2bef8c000335d5e58399eb789b7b4dda539a141638d1e01def50964641"
     },
     "prozio_sc": {
       "status": "matched",
-      "date": "2026-11-26T15:26:27.528346Z",
+      "date": "2026-11-27T01:03:24.791493Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "bb4b67a1c97b28750988dde38a47ab6249ac1fa8b75cfc1420af84d9af0fa88c"
     },
     "quadris": {
       "status": "matched",
-      "date": "2026-11-26T15:26:30.605581Z",
+      "date": "2026-11-27T01:03:28.483410Z",
       "result": "Linked PDF matches reviewed fingerprint",
-      "sha256": "99c3abc8db6369c65ef2fef64b56a90993a9f53886aae007191daed23e6cf9a0"
+      "sha256": "205acbad0609c2224d39a3b510a22bae91420f238ff3ea61351d0cd8780bf737"
     },
     "epa_59639_227": {
       "status": "matched",
-      "date": "2026-11-26T15:26:27.780706Z",
+      "date": "2026-11-27T01:03:26.797828Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "a25c6c4c002550855602ba889e3aebcd6d2890bafe1489c5e12fd38536776247"
     },
     "quash": {
       "status": "matched",
-      "date": "2026-11-26T15:26:28.205302Z",
+      "date": "2026-11-27T01:03:26.829048Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "071adb2416de9ebcb0dce78e585802b79fbd464d3bd3e51b9e0f25e21420713f"
     },
     "epa_84059_22": {
       "status": "matched",
-      "date": "2026-11-26T15:26:35.658109Z",
+      "date": "2026-11-27T01:03:56.525982Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "c74dc72288cbb5e7bcde4c649d961d1a912cba9de28f91559bae66ec2bc9bf85"
     },
     "regalia": {
       "status": "matched",
-      "date": "2026-11-26T15:26:28.330502Z",
+      "date": "2026-11-27T01:03:27.129364Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "cd1040c30213948f5a3d6b448294981ab3044bd1a9fd5fc76b8e8ef0977f9ea1"
     },
     "regalia_rx": {
       "status": "matched",
-      "date": "2026-11-26T15:26:28.446165Z",
+      "date": "2026-11-27T01:03:27.555679Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "983bea74c3ddd7d7db5b98f422f463f39d67452690517180efec1a2ac4d2e0f3"
     },
     "republic": {
       "status": "matched",
-      "date": "2026-11-26T15:26:28.435134Z",
+      "date": "2026-11-27T01:03:27.327681Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "cd59959fa9dd71b432e14e3b673760de9a8f4c8cace97166074f5f9b6e386da4"
     },
     "revytek_gb0": {
       "status": "matched",
-      "date": "2026-11-26T15:26:28.639171Z",
+      "date": "2026-11-27T01:03:27.959399Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "9c09d57ee85884b46d1ab9d5b5be361b1d40f4c4cb4bb9e4e5301707033f1cbb"
     },
     "epa_93051_4": {
       "status": "matched",
-      "date": "2026-11-26T15:26:28.797301Z",
+      "date": "2026-11-27T01:03:29.885927Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "50f6582f67c9846cc789b968d5f56008fc5f1a0f9bc330d264b97879753dbca9"
     },
     "epa_103591_5": {
       "status": "matched",
-      "date": "2026-11-26T15:26:29.006041Z",
+      "date": "2026-11-27T01:03:30.834419Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0db3b895596846b56fa7bc19152d81fb42472e8c8714d3b7b9cfdc3d3899d9b1"
     },
     "satori": {
       "status": "matched",
-      "date": "2026-11-26T15:26:29.420478Z",
+      "date": "2026-11-27T01:03:28.979168Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "de65b169069da9025e7d5712a2347fd4dfe45b577df2566ee57c50fed9b2072e"
     },
     "epa_7969_309": {
       "status": "matched",
-      "date": "2026-11-26T15:26:29.581837Z",
+      "date": "2026-11-27T01:03:30.870904Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "75089d429a2e3bfd42e6d6b837a6bcf248f4846401adb7b892dd139ee467afa7"
     },
     "serenade_aso": {
       "status": "matched",
-      "date": "2026-11-26T15:26:30.197730Z",
+      "date": "2026-11-27T01:03:32.510054Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "37638ba15a3a2203c9ef75dbc48c94e2cad04b7a59e11250fb845f3c02578ddb"
     },
     "epa_264_1151": {
       "status": "matched",
-      "date": "2026-11-26T15:26:32.302016Z",
+      "date": "2026-11-27T01:03:38.721696Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "f7c47e4627ffd70f8cf182988a0fd67fbd1551db292f2d51ae55fd17f6b00cc7"
     },
     "serenade_opti": {
-      "status": "matched",
-      "date": "2026-11-26T15:26:30.614406Z",
-      "result": "Linked PDF matches reviewed fingerprint",
-      "sha256": "b501669187a24d3170fbc4c9652cdc90912f70a3d45bbe8e069f09c242013c1f"
+      "status": "unavailable",
+      "date": "2026-11-27T01:03:32.359217Z",
+      "result": "Not verified: HTTP Error 503: Service Unavailable"
     },
     "epa_71840_18": {
       "status": "matched",
-      "date": "2026-11-26T15:26:31.545878Z",
+      "date": "2026-11-27T01:03:33.610048Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "91cf4b149219309323676ef82104cd3e3eb9a3317986f01ecbedabcc2825c839"
     },
     "epa_72662_11": {
       "status": "matched",
-      "date": "2026-11-26T15:26:31.504078Z",
+      "date": "2026-11-27T01:03:33.616801Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "e57cea1d94912ecdc5a57cd896d8cb596cc21f4c3b6f00aa8302bfb8945a5e46"
     },
     "sonata_current": {
       "status": "matched",
-      "date": "2026-11-26T15:26:31.701441Z",
+      "date": "2026-11-27T01:03:34.239114Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "a36486e19f016e3d349dea5e519fed05b9a9cbed86d8d3d98ccf562e09099a19"
     },
     "stargus": {
       "status": "matched",
-      "date": "2026-11-26T15:26:31.824628Z",
+      "date": "2026-11-27T01:03:33.784534Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "defd24cf998f86be9291cdfd76f9bf9717a6eaf2a478133382b923a0c4f5a23e"
     },
     "epa_100_1770": {
       "status": "matched",
-      "date": "2026-11-26T15:26:32.288460Z",
+      "date": "2026-11-27T01:03:35.052417Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "0d1dab2bb0512dd3addcb95b261697af81bd0c558ebbda5ce0410448d2d14694"
     },
     "epa_70506_440": {
       "status": "matched",
-      "date": "2026-11-26T15:26:32.387301Z",
+      "date": "2026-11-27T01:03:35.334435Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "f682d9bc7025610ea4c8b3b77ea75c0474a6fd44dd0297618f089edcdf8e6365"
     },
     "epa_70506_508": {
       "status": "matched",
-      "date": "2026-11-26T15:26:32.916081Z",
+      "date": "2026-11-27T01:03:36.750625Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "f8ab959cdd656be50e238f0c4f00da6838517f16d29ede4ad824e4464d3e03d5"
     },
     "tetraban": {
       "status": "matched",
-      "date": "2026-11-26T15:26:32.975124Z",
+      "date": "2026-11-27T01:03:35.795230Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "5cf5205cf6f53ceabe9a355ec4625cb80416a2ceea8aa34fdf84f438d2b96c82"
     },
     "epa_33270_32": {
       "status": "matched",
-      "date": "2026-11-26T15:26:33.168454Z",
+      "date": "2026-11-27T01:03:36.589792Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "11186dc9225211a5e2a725367d4c13f4276c4660bfbc8a0fd57ad4e8f307189c"
     },
     "epa_84229_47": {
       "status": "matched",
-      "date": "2026-11-26T15:26:33.213721Z",
+      "date": "2026-11-27T01:03:38.725397Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "821c972bfb7f26e06344151e8ca957b8a68d81e4ed1cfb0c88337218e50540e5"
     },
     "epa_92647_2": {
       "status": "matched",
-      "date": "2026-11-26T15:26:34.590169Z",
+      "date": "2026-11-27T01:03:39.651201Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "b9c39c63036dc6143b5b32956aeeb2c6fcbcbc0196d1bd06b7bb5549fb67572f"
     },
     "epa_60063_86": {
       "status": "matched",
-      "date": "2026-11-26T15:26:33.589314Z",
+      "date": "2026-11-27T01:03:39.236858Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "1fd34feacaa9ea9a6e85dd4d4771eebde7dbed077ec6cc9dc98bee582748b980"
     },
     "vacciplant": {
       "status": "matched",
-      "date": "2026-11-26T15:26:34.019488Z",
+      "date": "2026-11-27T01:03:41.584063Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "9eff80253bc4b80fd8b214087ef9c654c0576ad64418e705ce005d3ce28e65d2"
     },
     "epa_62719_788": {
       "status": "matched",
-      "date": "2026-11-26T15:26:33.822971Z",
+      "date": "2026-11-27T01:03:39.879235Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "d8eb4688cbf0eb0fb97a5eae938be6abe12264752012f308fc2eef2a4880b89d"
     },
     "vertisan": {
       "status": "matched",
-      "date": "2026-11-26T15:26:39.432209Z",
+      "date": "2026-11-27T01:03:53.587884Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "067c548d29a2e01f5a26e26a55ee4105d35c84b2f37a15c48cc3be3e58788221"
     },
     "viatude": {
       "status": "matched",
-      "date": "2026-11-26T15:26:34.690519Z",
+      "date": "2026-11-27T01:03:40.272074Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "67ccf40ac5102cab98171532a00e202d6d3fcac2f5bef14bc6f925ebb70e6d25"
     },
     "epa_10163_405": {
       "status": "matched",
-      "date": "2026-11-26T15:26:34.795708Z",
+      "date": "2026-11-27T01:03:40.777947Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "db4f8e37bda74365a3006bdc77a3c6752b408782246db698b990ee408d5b109a"
     },
     "zolera_fx": {
       "status": "matched",
-      "date": "2026-11-26T15:26:34.899790Z",
+      "date": "2026-11-27T01:03:42.084508Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "e5605d2720c37bc9be93ddee9c47ffd1a8455c1b87b3971ad8147dafda4f50fc"
     },
     "epa_70506_443": {
       "status": "matched",
-      "date": "2026-11-26T15:26:35.375021Z",
+      "date": "2026-11-27T01:03:43.249012Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "7bfb7d43fefd6bf28aa061d6dfdba713524a21ddf9d157ac9dca8bc54efeae2c"
     },
     "zorina": {
       "status": "matched",
-      "date": "2026-11-26T15:26:35.417885Z",
+      "date": "2026-11-27T01:03:42.361946Z",
       "result": "Linked PDF matches reviewed fingerprint",
       "sha256": "ce8a647c3988510c62f50b0d5dcffee2789fb35667b25ce3d2b11f174675281d"
     }
@@ -1723,7 +1722,7 @@
   "feedChecks": {
     "uk": {
       "status": "matched",
-      "date": "2026-11-26T15:26:40.653947Z",
+      "date": "2026-11-27T01:03:57.852909Z",
       "url": "https://kentuckypestnews.wordpress.com/2026/03/24/consider-a-foliar-fungicide-application-on-canola-for-management-of-white-mold-2/",
       "modified": "2026-03-24T14:17:31-04:00",
       "title": "Consider a Foliar Fungicide Application on Canola for Management of White Mold",
@@ -1731,7 +1730,7 @@
     },
     "ut": {
       "status": "matched",
-      "date": "2026-11-26T15:26:41.245167Z",
+      "date": "2026-11-27T01:03:58.298518Z",
       "url": "https://news.utcrops.com/2026/02/white-mold-sclerotinia-stem-rot-in-tennessee-winter-canola/",
       "modified": "2026-06-22T09:33:06",
       "title": "White Mold (Sclerotinia Stem Rot) in Tennessee Winter Canola",
@@ -13841,12 +13840,12 @@
   "scope": "Tracked EPA records, reviewed primary PDFs and two Extension feeds. No automatic approval of changed use directions.",
   "summary": {
     "epaChecks": {
-      "matched": 194,
-      "changed": 2
+      "unavailable": 196
     },
     "checks": {
-      "matched": 121,
-      "changed": 1
+      "matched": 120,
+      "changed": 1,
+      "unavailable": 1
     },
     "feedChecks": {
       "matched": 2
